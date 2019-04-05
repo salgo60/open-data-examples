@@ -23,7 +23,7 @@ For more details, see the [reference documentation](https://oppnadata.se/dataman
 Getting data from locations of groundmeasurements of groundwater, for more details [read this]
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-- [wikidata-org.ipynb](wikidata-org.ipynb) - added by [salgo60](https://github.com/salgo60) along with this [video](https://youtu.be/HrfQioXjGZE)
+- [SGU.ipynb](SGU.ipynb) - added by [salgo60](https://github.com/salgo60)
 
 ## Wikidata.org - Get info from the Wikipedia project
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
