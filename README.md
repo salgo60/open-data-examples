@@ -21,7 +21,7 @@ For more details, see the [reference documentation](https://oppnadata.se/dataman
 - [Forsakringskassan.ipynb](Forsakringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
 
 ## SGU - Platser för miljöövervakning: Datavärdskap Grundvatten
-Getting data from locations of groundmeasurements of groundwater, for more details [read this]
+Getting data from locations of groundmeasurements of groundwater, for more details [read this](https://www.sgu.se/grundvatten/miljoovervakning-av-grundvatten/datavardskap-for-grundvatten/)
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 - [SGU.ipynb](SGU.ipynb) - added by [salgo60](https://github.com/salgo60)
