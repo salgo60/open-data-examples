@@ -36,3 +36,4 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 * Presentation Hack4Sweden "[Maximize the usage of Open Data](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy)"
 * more advanced [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
 * "[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)"
+* [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
