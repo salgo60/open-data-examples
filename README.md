@@ -1,4 +1,4 @@
-[Presentation](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy)
+[Presentation](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy), more [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)
 # Open Data Examples - Hack for Sweden 2019
 
 These Jupyter Notebooks contains examples on how to access open data through APIs. It was made for Hack for Sweden 2019.
@@ -21,8 +21,7 @@ For more details, see the [reference documentation](https://oppnadata.se/dataman
 - [Forsakringskassan.ipynb](Forsakringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
 
 ## SGU - Platser för miljöövervakning: Datavärdskap Grundvatten
-Getting data from locations of groundmeasurements of groundwater, for more details [read this](https://www.sgu.se/grundvatten/miljoovervakning-av-grundvatten/datavardskap-for-grundvatten/)
-Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+Getting data from locations of groundmeasurements of groundwater, for more details [read this](https://www.sgu.se/grundvatten/miljoovervakning-av-grundvatten/datavardskap-for-grundvatten/).
 
 - [SGU.ipynb](SGU.ipynb) - added by [salgo60](https://github.com/salgo60)
 
