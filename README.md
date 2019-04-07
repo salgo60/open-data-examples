@@ -40,3 +40,4 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * Github [Explore open data Zürich](https://github.com/wildtreetech/explore-open-data)
 * Github [Open Data Bikes Analysis Bordeaux and Lyon](https://github.com/Oslandia/open-data-bikes-analysis)
+* [Estimate of Public Jupyter Notebooks on GitHub](https://nbviewer.jupyter.org/github/parente/nbestimate/blob/master/estimate.ipynb) 4 000 000 2019-03-27
