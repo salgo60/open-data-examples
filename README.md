@@ -38,4 +38,5 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 * "[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)"
 * [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* Github [Explore open data Zürich](https://github.com/wildtreetech/explore-open-data)
+* Github [Open Data Bikes Analysis Bordeaux and Lyon](https://github.com/Oslandia/open-data-bikes-analysis)
