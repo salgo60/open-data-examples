@@ -1,4 +1,4 @@
-[Presentation](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy), more [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)
+
 # Open Data Examples - Hack for Sweden 2019
 
 These Jupyter Notebooks contains examples on how to access open data through APIs. It was made for Hack for Sweden 2019.
@@ -29,3 +29,7 @@ Getting data from locations of groundmeasurements of groundwater, for more detai
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 - [wikidata-org.ipynb](wikidata-org.ipynb) - added by [salgo60](https://github.com/salgo60) along with this [video](https://youtu.be/HrfQioXjGZE)
+
+## Misc
+* Presentation Hack4Sweden "[Maximize the usage pf Open Data]"(https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy)
+* more advanced [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
