@@ -30,6 +30,8 @@ Getting data from locations of groundmeasurements of groundwater, for more detai
 ## Vinnova  - API for get calls for proposal
 For more [details](https://www.vinnova.se/en/apply-for-funding/find-the-right-funding/) / [API](https://www.vinnova.se/om-oss/kontakta-oss/om-webbplatsen/oppen-data/)
 
+- [Vinnova.ipynb](Vinnova.ipynb) - added by [salgo60](https://github.com/salgo60)
+
 ## Wikidata.org - Get info from the Wikipedia project
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
