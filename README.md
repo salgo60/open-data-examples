@@ -7,7 +7,7 @@ These Jupyter Notebooks contains examples on how to access open data through API
 
 If you want to work with the examples during the hack, I recommend using https://jupyter.se where you login with a Google account and get started with the README. You can also run these examples on mybinder.org, but inactivity will shut you down and work wont be saved.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hack-for-sweden/open-data-examples/master?urlpath=%2Flab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/salgo60/open-data-examples/master?urlpath=%2Flab)
 
 # Examples
 
