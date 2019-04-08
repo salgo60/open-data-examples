@@ -4,3 +4,5 @@ dependencies:
   - pandas
   - pip:
       - sparqlwrapper
+      - pyleaflet
+      - geojson 
