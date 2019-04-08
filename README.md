@@ -7,7 +7,7 @@ These Jupyter Notebooks contains examples on how to access open data through API
 
 If you want to work with the examples during the hack, I recommend using https://jupyter.se where you login with a Google account and get started with the README. You can also run these examples on mybinder.org, but inactivity will shut you down and work wont be saved.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/salgo60/open-data-examples/master?urlpath=%2Flab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hack-for-sweden/open-data-examples/master?urlpath=%2Flab)
 
 # Examples
 
@@ -26,6 +26,9 @@ For more details, see the [reference documentation](https://oppnadata.se/dataman
 Getting data from locations of groundmeasurements of groundwater, for more details [read this](https://www.sgu.se/grundvatten/miljoovervakning-av-grundvatten/datavardskap-for-grundvatten/).
 
 - [SGU.ipynb](SGU.ipynb) - added by [salgo60](https://github.com/salgo60)
+
+## Vinnova  - API for get calls for proposal
+For more [details](https://www.vinnova.se/en/apply-for-funding/find-the-right-funding/) / [API](https://www.vinnova.se/om-oss/kontakta-oss/om-webbplatsen/oppen-data/)
 
 ## Wikidata.org - Get info from the Wikipedia project
 Wikidata provides machine readable data from the Wikipedia project, licenced under a Creative Commons "No rights reserved" licence called [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/).
