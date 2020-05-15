@@ -20,7 +20,7 @@ With this API you can get events based on _when_, _where_ and _what_, for more d
 From this API you get summarizing statistics of the registered stress related diseases that Försäkringskassan is compensating. The information is described on a county and municipality level on a quarterly basis.
 
 For more details, see the [reference documentation](https://oppnadata.se/datamangd/#esc_entry=4778&esc_context=547).
-- [Forsakringskassan.ipynb](Forsakringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
+- [Försäkringskassan.ipynb](Försäkringskassan.ipynb) - added by [@salgo60](https://github.com/salgo60)
 
 ## SGU - Platser för miljöövervakning: Datavärdskap Grundvatten
 Getting data from locations of groundmeasurements of groundwater, for more details [read this](https://www.sgu.se/grundvatten/miljoovervakning-av-grundvatten/datavardskap-for-grundvatten/).
