@@ -16,6 +16,8 @@ With this API you can get events based on _when_, _where_ and _what_, for more d
 
 - [polisen-se.ipynb](polisen-se.ipynb) - added by [@salgo60](https://github.com/salgo60)
 
+![polisen](https://github.com/salgo60/open-data-examples/raw/37d018ecd1d0324190c3b42dab8de10725060484/OutputPolice.png)
+
 ## Försäkringskassan - Get statistics
 From this API you get summarizing statistics of the registered stress related diseases that Försäkringskassan is compensating. The information is described on a county and municipality level on a quarterly basis.
 
