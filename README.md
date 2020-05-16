@@ -41,10 +41,16 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 
 ## Misc
 * Presentation Hack4Sweden "[Maximize the usage of Open Data](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy)"
-* more advanced [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
-* "[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)"
-* [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+Notebooks)
+### OPEN DATA
 * Github [Explore open data Zürich](https://github.com/wildtreetech/explore-open-data)
 * Github [Open Data Bikes Analysis Bordeaux and Lyon](https://github.com/Oslandia/open-data-bikes-analysis)
+* Github [Cannabis sales reports data in Colorado](https://github.com/cjwinchester/co-weed-sales-data) Jupyter [notebook](https://github.com/cjwinchester/co-weed-sales-data/blob/master/Analysis%20of%20Colorado%20cannabis%20sales%20data.ipynb)
+![Sales](https://github.com/cjwinchester/co-weed-sales-data/raw/6f45916eb928dd042a56a5a4321b4b67862703e7/img/mjsales.jpg)
+### JUPYTER
+* More advanced [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
+* "[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)"
+* [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-
+* [jupyter book](https://jupyterbook.org/intro.html)
 * [Estimate of Public Jupyter Notebooks on GitHub](https://nbviewer.jupyter.org/github/parente/nbestimate/blob/master/estimate.ipynb) 4 000 000 2019-03-27
