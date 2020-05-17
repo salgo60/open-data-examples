@@ -51,7 +51,7 @@ Notebooks)
 * More advanced [Jupyter examples](https://github.com/minrk/ligo-binder/blob/master/index.ipynb)[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/minrk/ligo-binder/master?filepath=index.ipynb)
 * "[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)"
 * [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks]
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [jupyter book](https://jupyterbook.org/intro.html)
 * [Estimate of Public Jupyter Notebooks on GitHub](https://nbviewer.jupyter.org/github/parente/nbestimate/blob/master/estimate.ipynb) 4 000 000 2019-03-27
 ## Open data challenge
