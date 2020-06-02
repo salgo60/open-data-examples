@@ -15,8 +15,10 @@ If you want to work with the examples during the hack, I recommend using https:/
 With this API you can get events based on _when_, _where_ and _what_, for more details [read this](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/).
 
 - [polisen-se.ipynb](polisen-se.ipynb) - added by [@salgo60](https://github.com/salgo60)
-
+- see also [Analysis of Crimes in the City of New York](https://github.com/czapol/Analysis-of-Crimes-in-the-City-of-New-York/blob/master/Analysis%20of%20Crimes%20in%20The%20City%20of%20New%20York%20%20-%20Capstone%20Project%201%20-%20Code%20-%20Springboard%202018.ipynb)
+  - [Crime prediction using ML in Chichago](https://github.com/code-zeus/Crime-Prediction)
 ![polisen](https://github.com/salgo60/open-data-examples/raw/37d018ecd1d0324190c3b42dab8de10725060484/OutputPolice.png)
+  - see also in Swedish [question about how we get this happen with Swedish Öppen data](https://community.entryscape.com/t/var-data-uttrycks-i-format-x-enligt-specifikation-y-ar-det-ok/346/2?u=magnus_salgo)
 
 ## Försäkringskassan - Get statistics
 From this API you get summarizing statistics of the registered stress related diseases that Försäkringskassan is compensating. The information is described on a county and municipality level on a quarterly basis.
