@@ -3,9 +3,9 @@
 
 # Open Data Examples - Hack for Sweden 2019
 
-These Jupyter Notebooks contains examples on how to access open data through APIs. It was made for Hack for Sweden 2019.
+Jupyter Notebooks contains examples on how to access open data through APIs. It was made for Hack for Sweden 2019 to see if this is a way forward making Open Data easier to reuse....
 
-If you want to work with the examples during the hack, I recommend using https://jupyter.se where you login with a Google account and get started with the README. You can also run these examples on mybinder.org, but inactivity will shut you down and work wont be saved.
+You can also run these examples on mybinder.org, but inactivity will shut you down and work wont be saved.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/salgo60/open-data-examples/master?urlpath=%2Flab)
 
