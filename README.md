@@ -41,6 +41,9 @@ Wikidata provides machine readable data from the Wikipedia project, licenced und
 
 - [wikidata-org.ipynb](wikidata-org.ipynb) - added by [salgo60](https://github.com/salgo60) along with this [video](https://youtu.be/HrfQioXjGZE)
 
+## Diarie/Ärenden Linköpings kommun och dokument hos Riksdagen
+[Jupyter](https://github.com/salgo60/open-data-examples/blob/master/Diarie%20Link%C3%B6pings%20kommun%20Riksdagen.ipynb)
+
 ## Misc
 * Presentation Hack4Sweden "[Maximize the usage of Open Data](https://prezi.com/gxli-bpyese7/?utm_campaign=share&utm_medium=copy)"
 Notebooks)
