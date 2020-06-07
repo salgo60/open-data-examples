@@ -1,0 +1,65 @@
+_id,Kommun-KOD,Utegym-ID,Namn,Namn pa plats,Koordinat_Lat_(WGS84),Koordinat_Long_(WGS84)
+1,180,0180_Utegym_00001,Akalla Gårds utegym,Akalla Gårds bollplan,59.412051,17.915596
+2,180,0180_Utegym_00002,Björkhagens utegym,Startplatsen för Björkhagsspåret,59.293862,18.126439
+3,180,0180_Utegym_00003,Bredängs utegym,Intill Bredängs camping,59.295756000000004,17.923198
+4,180,0180_Utegym_00004,Brotorp utegym,Brotorp,59.272175,18.148630999999998
+5,180,0180_Utegym_00005,Eriksdals utegym,Intill Eriksdalsbadet,59.304697999999995,18.074382
+6,180,0180_Utegym_00006,Fagersjöskogens utegym,Intill Fagersjöspåret,59.251093999999995,18.077149
+7,180,0180_Utegym_00007,Farsta utegym,Utanför grindarna till Farsta idrottsplats,59.23976999999999,18.079995999999998
+8,180,0180_Utegym_00008,Farstanäsets utegym,Farstanäset,59.239064,18.070715
+9,180,0180_Utegym_00009,Farstastrandsbadets utegym,Farstastrandsbadet,59.237469999999995,18.085333
+10,180,0180_Utegym_00010,Flatenbadet utegym,Flatenbadet,59.253682999999995,18.161676
+11,180,0180_Utegym_00011,Fruängens utegym,Vid Fruängens bollplan,59.283127,17.962843
+12,180,0180_Utegym_00012,Grimsta utegym,Grimsta gärde,59.357766000000005,17.865457
+13,180,0180_Utegym_00013,Grimstafältet - Grimsta motionsspår,Grimstafältet,59.36164300000001,17.846410000000002
+14,180,0180_Utegym_00014,Gärdets utegym,Gärdet,59.342101,18.108704
+15,180,0180_Utegym_00015,Hammarby Sjöstads utegym,Hammarby Sjöstad,59.301567000000006,18.11109
+16,180,0180_Utegym_00016,Hellasgårdens utegym,Hellasgården,59.289772,18.158952
+17,180,0180_Utegym_00017,Hinderstorpsparkens utegym,Hinderstorpsparken,59.388563,17.935285999999998
+18,180,0180_Utegym_00018,Hjorthagens utegym,Hjorthagen,59.357636,18.098828
+37,180,0180_Utegym_00037,Pålsundsparkens utegym,Pålslundaparken,59.318822999999995,18.027859
+19,180,0180_Utegym_00019,Hornsbergs strands utegym,Hornsbergs strand,59.34065,18.010499
+20,180,0180_Utegym_00020,Hökarängsbadets utegym,Hökarängsbadet,59.246837,18.109381
+21,180,0180_Utegym_00021,Kaknäs utegym,Kaknäs motionsspår,59.336133999999994,18.136206
+22,180,0180_Utegym_00022,Kanaanbadets utegym,Kanaanbadet,59.348849,17.859301000000002
+29,180,0180_Utegym_00029,Lillsjöns utegym,Lillsjön,59.342025,17.953515
+23,180,0180_Utegym_00023,Kronobergsparkens utegym,Kronobergsparken,59.332426,18.036282
+24,180,0180_Utegym_00024,Kungsholms strandstigs utegym,Kungsholms strandstig,59.333843,18.047520000000002
+25,180,0180_Utegym_00025,Kämpetorpsskolans utegym,Kämpetorpsskolan,59.283719999999995,17.996853
+26,180,0180_Utegym_00026,Kärrtorps utegym,Kärrtorp,59.285587,18.125069
+27,180,0180_Utegym_00027,Lappkärrsbergets utegym,Docentbacken Lappkärrsberget,59.371623,18.058726
+28,180,0180_Utegym_00028,Liljeholmens utegym,Trekantsparken,59.310646999999996,18.020778
+30,180,0180_Utegym_00030,Mellanbergsparkens utegym,Mellanbergsparken,59.29135600000001,17.981223999999997
+31,180,0180_Utegym_00031,Mossens utegym,Stora Mossens idrottsplats,59.328956999999996,17.963759
+32,180,0180_Utegym_00032,Mälarhöjdsbadets utegym,Mälarhöjdsbadet,59.300068,17.925742
+33,180,0180_Utegym_00033,Nytorpsgärdes utegym,Nytorpsbadet,59.289607999999994,18.106392
+34,180,0180_Utegym_00034,Nälsta utegym,Nälsta,59.369468000000005,17.8802
+35,180,0180_Utegym_00035,Oppundaparkens utegym,Oppundaparken,59.271542000000004,18.07292
+36,180,0180_Utegym_00036,Oxtungans utegym,Oxtungans lekplats,59.370146999999996,17.818056
+38,180,0180_Utegym_00038,Rålambshovsparkens utegym,Rålambshovsparken,59.329186,18.025254
+39,180,0180_Utegym_00039,Sannadalsparkens utegym,Sannadalsparken,59.315560999999995,18.011020000000002
+40,180,0180_Utegym_00040,Skarpnäcksfältets utegym,Skarpnäcks sportfält,59.270132999999994,18.119933
+41,180,0180_Utegym_00041,Skärholmens utegym,Skärholmens gård,59.283053,17.888932999999998
+42,180,0180_Utegym_00042,Smedsuddsbadets utegym,Smedsuddsbadet,59.325638,18.021422
+43,180,0180_Utegym_00043,Solbergskogens utegym,Solbergskogen,59.286729,18.004291000000002
+57,180,0180_Utegym_00057,Vintervikens utegym,Vinterviksparken,59.311741000000005,18.002447
+44,180,0180_Utegym_00044,Solbrännans utegym,Parken Solbrännan,59.281968000000006,18.015535
+45,180,0180_Utegym_00045,Solviks utegym,Solviksbadet,59.315803,17.964651999999997
+46,180,0180_Utegym_00046,Spånga idrottsplats,Spånga IP,59.387381000000005,17.907621
+47,180,0180_Utegym_00047,Spånga utegym,Spånga centrum,59.382783999999994,17.89545
+48,180,0180_Utegym_00048,Stora Sköndals utegym,Stora Sköndals handikappbad,59.249131000000006,18.125449
+49,180,0180_Utegym_00049,Stråkets utegym,Stråkets parklek,59.359758,17.831231
+58,180,0180_Utegym_00058,Vårgårdens utegym,Vårgårdens parklek,59.276537,17.884601
+50,180,0180_Utegym_00050,Sätra idrottsplats utegym,Sätra IP,59.289586,17.928911
+51,180,0180_Utegym_00051,Sätradals utegym,Sätradalsparken,59.286080000000005,17.917117
+52,180,0180_Utegym_00052,Sätrastrandsbadets utegym,Sätrastrandsbadet,59.286547999999996,17.892867000000003
+53,180,0180_Utegym_00053,Tantolundens utegym,Tantolunden,59.313632999999996,18.036248
+54,180,0180_Utegym_00054,Uteträffen i Tessinparken,Tessinparken,59.344561999999996,18.095565
+55,180,0180_Utegym_00055,Vanadislundens utegym,Vanadislunden,59.347196,18.05315
+56,180,0180_Utegym_00056,Vasaparkens utegym,Vasaparken,59.339307999999996,18.040205
+59,180,0180_Utegym_00059,Älvsjöskogens utegym,Älvsjöskogens naturreservat,59.271556999999994,17.995136
+60,180,0180_Utegym_00060,Ärvinge utegym,Ärvinge,59.399211,17.933564
+61,180,0180_Utegym_00061,Ågestas utegym,Ågesta motionsområde,59.222753000000004,18.104855
+62,180,0180_Utegym_00062,Årstaskogens utegym,Årstaskogen,59.30309499999999,18.059095000000003
+63,180,0180_Utegym_00063,Årstavikens utegym,Årstaviken,59.305066000000004,18.040284
+64,180,0180_Utegym_00064,Östbergas utegym,Lisebergs bollplan,59.28631,18.032016
