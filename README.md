@@ -18,7 +18,7 @@ With this API you can get events based on _when_, _where_ and _what_, for more d
 - see also [Analysis of Crimes in the City of New York](https://github.com/czapol/Analysis-of-Crimes-in-the-City-of-New-York/blob/master/Analysis%20of%20Crimes%20in%20The%20City%20of%20New%20York%20%20-%20Capstone%20Project%201%20-%20Code%20-%20Springboard%202018.ipynb)
   - [Crime prediction using ML in Chichago](https://github.com/code-zeus/Crime-Prediction)
 ![polisen](https://github.com/salgo60/open-data-examples/raw/37d018ecd1d0324190c3b42dab8de10725060484/OutputPolice.png)
-  - see also in Swedish [question about how we get this happen with Swedish Öppen data](https://community.entryscape.com/t/var-data-uttrycks-i-format-x-enligt-specifikation-y-ar-det-ok/346/2?u=magnus_salgo)
+  - see also in Swedish [question about how we get this happen with Swedish Öppen data](https://community.entryscape.com/t/var-data-uttrycks-i-format-x-enligt-specifikation-y-ar-det-ok/346/2?u=magnus_salgo) and the importance of [semantic interopability](https://forum.jobtechdev.se/t/har-ni-input-till-varens-meetups/263/6)
 
 ## Försäkringskassan - Get statistics
 From this API you get summarizing statistics of the registered stress related diseases that Försäkringskassan is compensating. The information is described on a county and municipality level on a quarterly basis.
