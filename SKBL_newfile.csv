@@ -1,17 +1,51 @@
 publishedDate,birthdate,deathdate,birthparish,deathparish,ISNI,SKBL,index,skbl_status,firstname,lastname,subtitle
-2021-01-31,1891-09-13,1961-07-10,Maria Magdalena församling,Gustav Vasa församling,,AmyReginaNitaHarleman,1824,OK,Amy Regina (/Nita/),Hårleman,"Skådespelare, revyartist, sufflör"
-2021-01-31,1916-10-11,2007-02-11,Vasa församling,Katarina församling,,BirgitSunesson,1825,OK,/Birgit/ Sofia,Sunesson,"Journalist, författare"
-2021-02-02,1879-01-09,1950-08-16,Hedvig Eleonora församling,,,ElsaSofiaHammarMoeschlin,1826,OK,/Elsa/ Sofia,Hammar-Moeschlin,"Konstnär, författare"
-2021-01-31,1892-07-02,1974-11-23,Sundsvalls församling,Gustaf Vasa församling,,ElsaSvartengren,1827,OK,/Elsa/ Maria,Svartengren,"Politisk journalist, feminist"
-2021-02-02,1860-04-30,1942-01-04,Mosaiska församlingen,Mora församling,,EmmaAmaliaZorn,1828,OK,/Emma/ Amalia,Zorn,"Filantrop, donator, museigrundare"
-2021-01-31,1924-07-27,2020-04-12,Skålleruds församling,,,ErnaMarianneEriksson,1829,OK,Erna /Marianne/,Eriksson,"Redaktör, förlagschef"
-2021-01-31,1945-07-07,2005-04-19,Luleå domkyrkoförsamling,,,GerdaMargaretaRenberg,1830,OK,Gerda /Margareta/,Renberg,"Konstnär, poet"
-2021-02-02,1861-08-08,1927-12-22,Sankt Nicolai församling,Uppsala församling,,HedvigAmaliaPosse,1831,OK,/Hedvig/ Amalia,Posse,"Missionär, sjukhusgrundare, psalmförfattare"
-2021-02-01,1890-07-17,1974-11-11,Skeppsholms församling,Sankt Görans församling,,HildegardDinclau,1832,OK,/Hildegard/ Maria,Dinclau,"Textilkonstnär, lärare"
-2021-02-01,1925-05-02,2000-10-18,Katarina församling,Sofia församling,,IngaStinaGill,1833,OK,/Inga/ Stina,Gill,"Skådespelare, dansare"
-2021-01-31,1888-06-07,1980-10-07,Luleå stadsförsamling,Täby församling,,LeaWikstrom,1834,OK,/Lea/ Maria Adina,Wikström,Fotograf
-2021-01-31,1873-05-30,1961-11-15,Hörby församling,Arvika Östra församling,,MajaFjstad,1835,OK,Kerstin Maria (/Maja/),Fjæstad,"Textilkonstnär, träsnidare"
-2021-02-02,1910-04-26,1956-04-29,Klara församling,Oscars församling,,SolveigHedengran,1836,OK,/Solveig/,Hedengran,"Skådespelare, filmstjärna"
-2021-02-01,1919-08-26,2014-12-18,Engelbrekts församling,Heliga Trefaldighets församling,,SonjaLyttkens,1837,OK,/Sonja/ Marie Louise,Lyttkens,"Matematiker, konstnär, kvinnosakskvinna"
-2021-02-01,1902-11-19,1994-06-13,Maria Magdalena församling,Oscars församling,,ThyraBratt,1838,OK,/Thyra/ Augusta Elisabeth,Bratt,"Politiker, kvinnosakskvinna"
-2021-01-31,1945-01-07,2018-05-18,,Sofia församling,,YrsaStenius,1839,OK,/Yrsa/ Carola,Stenius,"Journalist, författare, chefredaktör"
+2021-02-28,1888-02-13,1961-09-24,Örkelljunga församling,Maria församling,,AgnesViktoriaElinHansson,1902,OK,/Agnes/ Viktoria Elin,Hansson,Amatörfotograf
+2021-02-24,1925-12-02,2019-01-21,Jukkasjärvi församling,Jukkasjärvi församling,,AliceErikssonKalla,1903,OK,/Alice/ Ingeborg,Eriksson Kalla,"Arbetslägeröverlevare, en av Kirunasvenskarna"
+2021-02-24,1896-07-21,1983-10-06,Hedvig Eleonora församling,Västerleds församling,,AliceJennyEklund,1904,OK,/Alice/ Jenny,Eklund,"Skådespelare, regissör, teaterdirektör"
+2021-02-20,1880-01-10,1962-04-30,Jacobs församling,Engelbrekts församling,,AlmaGunillaMariaGullNatorp,1905,OK,Alma Gunilla Maria (/Gull/),Natorp,Skådespelare
+2021-03-01,1855-02-12,1928-10-10,Kristinehamns församling,,,BedaWennerqvist0,1906,OK,/Beda/,Wennerqvist,"Missionär, lärare, skolföreståndare"
+2021-02-24,1893-08-11,1961-12-09,,Bunge församling,,BertaPersson,1907,OK,/Berta/ Albertina,Persson,"Busschaufför, pionjär, företagare"
+2021-03-01,1940-12-30,2000-09-07,Sofia församling,Örgryte församling,,BirgittaPalme0,1908,OK,/Birgitta/,Palme,"Skådespelare, teaterchef, regissör"
+2021-02-27,1928-09-21,2018-08-14,Undersåkers församling,Roslagsbro-Vätö församling,,BrittIngegerdMoller,1909,OK,Britt /Ingegerd/,Möller,"Konstnär, textilkonstnär"
+2021-03-03,1819-01-19,1854-05-27,Arvidsjaur församling,Lycksele församling,,ChristinaCatharinaLarsdotter,1910,OK,/Christina Catharina/,Larsdotter,"Flicka med gigantism, utställningsartist"
+2021-02-25,1939-09-10,2013-12-05,Västerås domkyrkoförsamling,Masthuggs församling,,DagnyMarianneErikson,1911,OK,Dagny /Marianne/,Erikson,Textilhistoriker
+2021-02-18,1868-08-30,1938-07-08,Nikolai församling,,,EdlaHedvigSofiaafKlercker,1912,OK,/Edla/ Hedvig Sofia,af Klercker,"Författare, donator"
+2021-02-19,1743-06-14,1782-04-15,Uppsala domkyrkoförsamling,Danmarks församling,,ElisabethChristinavonLinne,1913,OK,/Elisabeth Christina/,von Linné,Botaniker
+2021-02-22,1849-11-19,1937-06-26,,Landskrona församling,,EliseMalmros,1914,OK,/Elise/ Anna,Malmros,"Bankkamrer, pionjär, filantrop"
+2021-02-21,1869-03-26,1921-12-22,Araslövs församling,Matteus församling,,EllaBilling,1915,OK,Elna (/Ella/),Billing,"Rösträttskvinna, samhällsdebattör"
+2021-02-19,1842-01-05,1921-05-12,Strängnäs stadsförsamling,Engelbrekts församling,,EllenBergman0,1916,OK,Eleonora (/Ellen/) Magdalena,Bergman,"Musiker, lärare, kvinnosakskvinna"
+2021-03-03,1913-07-20,1991-04-30,Hedvig Eleonora församling,Täby församling,,EllyBertaIsabellaLofstrand,1917,OK,/Elly/ Berta Isabella,Löfstrand,"Gymnast, pionjär, folkbildare"
+2021-02-22,1889-04-12,1985-05-11,Kvillinge församling,Engelbrekts församling,,EmmaDagmarStenbeck,1918,OK,Emma /Dagmar/,Stenbeck,"Filantrop, engagerad i Röda Korset"
+2021-02-24,1866-10-30,1942-11-20,Karlstads stadsförsamling,Engelbrekts församling,,EmmaMeissner,1919,OK,/Emma/ Olivia,Meissner,"Skådespelare, operettsångare"
+2021-02-19,1897-08-12,1987-06-14,Uddevalla församling,Oscars församling,,EstherRoeckHansen,1920,OK,Ester (/Esther/) Linéa,Roeck-Hansen,Skådespelare
+2021-02-26,1915-09-08,2008-04-27,Matteus församling,Nacka församling,,EvaCeciliaDahlgren,1921,OK,/Eva/ Cecilia,Dahlgren,"Balettdansare, koreograf, danslärare"
+2021-02-26,1711,1789,,Helgona församling,,FrancoiseMargueriteJanicon0,1922,OK,/Françoise Marguerite/,Janiçon,"Författare, samhällsdebattör"
+2021-02-19,1910-04-06,1993-06-28,Sankt Petri församling,Kungsholms församling,,GudrunBrost,1923,OK,/Gudrun/ Lisa Johanna,Brost,"Skådespelare, revyartist"
+2021-02-23,1896-10-17,1979-03-25,Åtvids församling,Åtvids församling,,IngeborgThorin,1924,OK,/Ingeborg/ Maria,Thorin,"Porträttfotograf, donator"
+2021-02-25,1920-05-11,2008-03-27,Härnösands församling,Helga Trefaldighets församling,,IngridAtterberg,1925,OK,/Ingrid/ Magdalena,Atterberg,"Keramiker, formgivare"
+2021-02-23,1896-12-31,1987-10-14,Sankt Peders församling,Vasa församling,,IngridMariaOsvald,1926,OK,/Ingrid/ Maria,Osvald,"Skolföreståndare, författare, politiker"
+2021-03-02,1933-03-04,1988-04-17,Högalids församling,Uppsala gamla församling,,IngridYlvaBirgittaKallstromEklund,1927,OK,Ingrid /Ylva/ Birgitta,Källström-Eklund,"Tecknare, illustratör, grafisk formgivare"
+2021-02-21,1915-01-14,1993-02-21,Tossene församling,Oscars församling,,IrmaChristenson,1928,OK,/Irma/ Alexandra,Christenson,Skådespelare
+2021-02-20,1870-02-02,1955-07-06,Helgarö församling,Engelbrekts församling,,JuliaSvedelius,1929,OK,/Julia/ Maria,Svedelius,"Filantrop, föreläsare, redaktör"
+2021-02-28,1881-01-23,1943-12-01,Järfälla församling,Oscars församling,,KarolinaAlfridaFridaWinnerstrand,1930,OK,Karolina Alfrida (/Frida/),Winnerstrand,Skådespelare
+2021-02-20,1914-08-27,2004-09-30,Lidingö församling,Lidingö församling,,KerstinBernhard,1931,OK,/Kerstin/ Boel,Bernhard,"Fotograf, pionjär"
+2021-02-25,1914-04-08,2016-03-17,,,,LeoniaMariaLeonieGeisendorf,1932,OK,Leonia Maria (/Léonie/),Geisendorf,Arkitekt
+2021-03-02,1927-08-03,1994-06-22,,Medelplana församling,,LillemorIngeborgAinaSophieConstanceMannerheim,1933,OK,(/Lillemor/) Ingeborg Aina Sophie Constance,Mannerheim,"Kermaiker, formgivare"
+2021-02-27,1861-03-08,1896-12-25,Stora Råby församling,,,LinaJonn,1934,OK,Carolina (/Lina/),Jonn,"Fotograf, företagare"
+2021-02-18,1934-10-23,2016-01-28,Sankt Görans församling,Kalmars domkyrkoförsamling,,MajGunillaElisabetSkyttla,1935,OK,Maj /Gunilla/ Elisabet,Skyttla,Textilkonstnär
+2021-02-23,1907-08-01,1986-04-18,Hedvigs församling,Enskede församling,,MargaretaNordstrom,1936,OK,/Margareta/,Nordström,"Politiker, filantrop"
+2021-02-24,1901-03-17,1952-03-23,Katarina församling,Kungsholms församling,,MargitRosengren,1937,OK,/Margit/ Ingeborg,Rosengren,"Skådespelare, operettsångare"
+2021-02-27,1855-05-03,1910-10-16,Stora Råby församling,Lunds domkyrkoförsamling,,MariaJonn,1938,OK,/Maria/,Jonn,"Fotograf, företagare"
+2021-03-03,1872-08-27,1964-01-29,Sävare församling,,,MariaMarySofiaAnderson,1939,OK,Maria (/Mary/) Sofia,Anderson,"Facklig ledare, kvinnosakskvinna"
+2021-02-23,1910-09-30,1997-08-12,Västerås domkyrkoförsamling,Uppsala domkyrkoförsamling,,MaritaLindgrenFridell,1940,OK,Ann /Marita/ Götesdotter,Lindgren-Fridell,"Konsthistoriker, folkbildare, författare"
+2021-03-03,1908-08-15,2003-05-19,,Danderyds församling,,MirjamFuruhjelm,1941,OK,/Mirjam/,Furuhjelm,"Gynekolog, professor, pionjär"
+2021-02-23,1832-11-12,1892-12-11,Ytterjärna församling,Maria Magdalena församling,,NancyFredrikaAugustaEdberg,1942,OK,/Nancy/ Fredrika Augusta,Edberg,"Idrottare, simlärare, pionjär"
+2021-02-23,1872-05-17,1955-02-19,Karl Johans församling,Nacka församling,,OlgaNyblom,1943,OK,/Olga/ Maria,Nyblom,"Konstnär, textilkonstnär, redaktör"
+2021-02-25,1810-03-24,1887-08-07,Istorps församling,Visseltofta församling,,PaulineWestdahl,1944,OK,Emilia Eleonora Polynetta (/Pauline/),Westdahl,"Väckelsekristen pionjär, författare, nykterhetskämpe"
+2021-02-25,1911-02-03,1983-05-02,Gävle församling,Sankt Johannes församling,,RagnhildWahlborg0,1945,OK,/Ragnhild/,Wahlborg,Sjuksköterska
+2021-02-24,1898-07-10,1975-03-04,Lovö församling,Oscars församling,,ReneeLouiseBjorling,1946,OK,/Renée/ Louise,Björling,"Skådespelare, teaterlärare"
+2021-02-23,1920-12-26,1990-08-28,Ströms församling,Stockholms domkyrkoförsamling,,RutEvaStiberg,1947,OK,Rut /Eva/,Stiberg,Skådespelare
+2021-02-26,1924-08-03,2017-06-15,Landskrona församling,Lidingö församling,,StinaLjunggren,1948,OK,Ulla /Stina/,Ljunggren,"Rektor, idrottsledare"
+2021-02-20,1904-09-30,1980-12-01,,Skövde församling,,SveaJansson,1949,OK,/Svea/ Kristina,Jansson,Vissångare
+2021-02-27,1893-01-07,1970-04-29,Maria Magdalena församling,Oscars församling,,ToraAdelheidTeje,1950,OK,/Tora/ Adelheid,Teje,Skådespelare
+2021-02-27,1923-03-27,2018-05-11,Gustav Vasa församling,Lidingö församling,,UllaSonjaSallert,1951,OK,/Ulla/ Sonja,Sallert,"Sångare, skådespelare"
