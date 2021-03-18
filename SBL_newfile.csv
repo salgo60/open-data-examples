@@ -1724,7 +1724,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 8391,42599,F V Ludvig Norman,"Född:1831-08-28 – Nikolai församling, Stockholms län","Död:1885-03-28 – Hovförsamlingen, Stockholms län","Band 27 (1990-1991), sida 580.",1990-1991
 8394,42764,"Norrby, släkter",,,"Band 27 (1990-1991), sida 583.",1990-1991
 8396,56659,Ida Norrby,"Född:1869-02-27 – Kalmar domkyrkoförsamling, Kalmar län","Död:1934-02-19 – Uppsala domkyrkoförsamling, Uppsala län","Band 27 (1990-1991), sida 586.",1990-1991
-8400,45808,Andreas Norrelius,"Född:1679 – Maria Magdalena församling, Stockholms län","Död:1749-12-23 – Uppsala domkyrkoförsamling, Uppsala län","Band 27 (1990-1991), sida 589.",1990-1991
+8400,48205,Andreas Norrelius,"Född:1679 – Maria Magdalena församling, Stockholms län","Död:1749-12-23 – Uppsala domkyrkoförsamling, Uppsala län","Band 27 (1990-1991), sida 589.",1990-1991
 8401,38668,Anna H C Norrie (Pettersson-),"Född:1860-02-07 – Hedvig Eleonora församling, Stockholms län","Död:1957-07-13 – Jakobs församling, Stockholms län","Band 27 (1990-1991), sida 592.",1990-1991
 8402,43382,Herman Norrman,"Född:1864-08-05 – Säby församling (F-län), Jönköpings län (i Tranås)","Död:1906-08-24 – Säby församling (F-län), Jönköpings län (i Tranås)","Band 27 (1990-1991), sida 594.",1990-1991
 8404,43154,Lars A Norrman,"Född:1915-11-13 – Helsingborgs Maria församling, Skåne län","Död:1979-08-25 – Johannes församling, Stockholms län","Band 27 (1990-1991), sida 597.",1990-1991
@@ -6742,7 +6742,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 15789,35136,Bror Herman Dahlberg,"Född:1860-02-18 – Stockholms stad, Stockholms län","Död:1926-11-09 – Uppsala domkyrkoförsamling, Uppsala län","Band 09 (1931), sida 603.",1931
 15790,27044,John G. Dahlberg,"Född:1862-03-28 – Vetlanda församling, Jönköpings län",Död:1933,"Band 09 (1931), sida 606.",1931
 15791,39240,Knut Dahlberg,"Född:1877-05-23 – Malmö stad, Skåne län","Död:1949 – Oscars församling, Stockholms län","Band 09 (1931), sida 609.",1931
-15792,28792,L. Axel Dahlberg,"Född:1882-12-21 – Mariestads församling, Skaraborgs län","Död:1963 – Askersunds stadsförsamling, Örebro län","Band 09 (1931), sida 612.",1931
+15792,31291,L Axel Dahlberg,"Född:1882-12-21 – Mariestads församling, Skaraborgs län","Död:1963 – Askersunds stadsförsamling, Örebro län","Band 09 (1931), sida 612.",1931
 15793,131533,Erik J Dahlbergh,"Född:1625-10-10 – Stockholms stad, Stockholms län","Död:1703-01-16 – Stockholms stad, Stockholms län","Band 09 (1931), sida 615.",1931
 15794,27338,L. E. Theodor Dahlblom,"Född:1865-12-02 – Strömstads församling, Västra Götalands län","Död:1956 – Falu Kristine församling, Dalarnas län","Band 09 (1931), sida 630.",1931
 15795,47650,A. Gustaf Dahlbom,"Född:1806-03-03 – Herrberga församling, Östergötlands län (i Forsa)","Död:1859-05-03 – Lunds domkyrkoförsamling, Skåne län","Band 09 (1931), sida 633.",1931
@@ -8280,43 +8280,43 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 17791,51794,Johan Hartman Eberhardt,Född:1727,"Död:1796-01-04 – Maria Magdalena församling, Stockholms län","Band 11 (1945), sida 772.",1945
 17792,33720,Adolph Ebersköld,,Död:1678/1684,"Band 11 (1945), sida 777.",1945
 17794,63576,Carl Magnus Blom,"Född:1737-03-01 – Kalvsviks församling, Kronobergs län","Död:1815-04-04 – Hedemora stadsförsamling, Dalarnas län","Band 05 (1925), sida 1.",1925
-17795,32511,Carl Gustaf Blom Carlsson,"Född:1799-05-02 – Stockholms stad, Stockholms län","Död:1868-07-12 – Stockholms stad, Stockholms län","Band 05 (1925), sida 20.",1925
-17796,64464,Fredrik Blom,"Född:1781-01-24 – Karlskrona stadsförsamling, Blekinge län","Död:1853-09-25 – Stockholms stad, Stockholms län","Band 05 (1925), sida 13.",1925
+17795,36245,Carl Gustaf Blom Carlsson,"Född:1799-05-02 – Stockholms stad, Stockholms län","Död:1868-07-12 – Stockholms stad, Stockholms län","Band 05 (1925), sida 20.",1925
+17796,64949,Fredrik Blom,"Född:1781-01-24 – Karlskrona stadsförsamling, Blekinge län","Död:1853-09-25 – Stockholms stad, Stockholms län","Band 05 (1925), sida 13.",1925
 17797,66817,Isac Reinhold Blom,"Född:1762-10-27 – Nikolai församling, Södermanlands län (vid Stjärnholm)","Död:1826-05-06 – Stockholms stad, Stockholms län","Band 05 (1925), sida 7.",1925
-17799,24275,C Albert Blomberg,"Född:1844-07-16 – Hardemo församling, Örebro län","Död:1922-03-10 – Stockholms stad, Stockholms län","Band 05 (1925), sida 32.",1925
-17800,55670,Carl Johan Blomberg,"Född:1838-05-29 – Ljusdals församling, Gävleborgs län","Död:1890-03-15 – Härnösands domkyrkoförsamling, Västernorrlands län","Band 05 (1925), sida 27.",1925
-17801,35544,Carl Petter Blomberg,"Född:1748-08-12 – Stockholms stad, Stockholms län","Död:1820-10-24 – Värmdö församling, Stockholms län","Band 05 (1925), sida 23.",1925
-17802,20153,Erik A Blomberg,"Född:1894-08-17 – Stockholms stad, Stockholms län","Död:1965 – Västerleds församling, Stockholms län","Band 05 (1925), sida 43.",1925
-17803,30220,Ernst F W Blomberg,"Född:1863-01-04 – Stockholms stad, Stockholms län","Död:1911-03-24 – Stockholms stad, Stockholms län","Band 05 (1925), sida 37.",1925
-17804,21985,Harry Blomberg,"Född:1893-12-19 – Strängnäs stadsförsamling, Södermanlands län","Död:1950 – Stora Tuna församling, Dalarnas län","Band 05 (1925), sida 41.",1925
-17805,39306,K Hugo Blomberg,"Född:1850-02-09 – Hamrånge församling, Gävleborgs län","Död:1909-10-27 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 34.",1925
-17806,19282,E E Sigrid C Blomberg,"Född:1863-10-17 – Fliseryds församling, Kalmar län","Död:1941-01-28 – Karlstads domkyrkoförsamling, Värmlands län","Band 05 (1925), sida 40.",1925
-17807,30877,Didrik Blomcreutz,Född:1715-11-24,Död:1774-11-11 – Finland (i Helsingfors),"Band 05 (1925), sida 44.",1925
-17808,35511,Johan Ulric Blomdahl,"Född:1762-06-10 – Hjärtums församling, Älvsborgs län","Död:1836-05-16 – Stora Lundby församling, Älvsborgs län","Band 05 (1925), sida 47.",1925
-17809,24252,Johan Emil Blomén,"Född:1860-03-30 – Arvika församling, Värmlands län",Död:1920-07-05,"Band 05 (1925), sida 50.",1925
-17810,18710,Carl August Blomgren,"Född:1865-04-01 – Misterhults församling, Kalmar län (på Solstad)","Död:1926 – USA, Amerikas Förenta Stater","Band 05 (1925), sida 51.",1925
-17811,29240,Jöran Blomhjelm,,"Död:1714-02-05 – Stockholms stad, Stockholms län","Band 05 (1925), sida 52.",1925
-17812,33473,Jehubba Petrus Blomkvist,"Född:1843-01-10 – Stenåsa församling, Kalmar län","Död:1909-04-09 – Örebro församling, Örebro län","Band 05 (1925), sida 54.",1925
-17813,27993,Nils Jakob Olsson Blommér,"Född:1816-06-12 – Öveds församling, Skåne län (på Blommeröd)",Död:1853-02-01 – Italien (i Rom),"Band 05 (1925), sida 57.",1925
-17814,21597,Johan Viktor Blomquist,"Född:1871-03-10 – Arboga stadsförsamling, Västmanlands län","Död:1955 – Bromma församling (AB-län), Stockholms län","Band 05 (1925), sida 59.",1925
-17815,16452,"Blomstrand, släkt",,,"Band 05 (1925), sida 61.",1925
+17799,24270,C Albert Blomberg,"Född:1844-07-16 – Hardemo församling, Örebro län","Död:1922-03-10 – Stockholms stad, Stockholms län","Band 05 (1925), sida 32.",1925
+17800,55866,Carl Johan Blomberg,"Född:1838-05-29 – Ljusdals församling, Gävleborgs län","Död:1890-03-15 – Härnösands domkyrkoförsamling, Västernorrlands län","Band 05 (1925), sida 27.",1925
+17801,39912,Carl Petter Blomberg,"Född:1748-08-12 – Stockholms stad, Stockholms län","Död:1820-10-24 – Värmdö församling, Stockholms län","Band 05 (1925), sida 23.",1925
+17802,21379,Erik A Blomberg,"Född:1894-08-17 – Stockholms stad, Stockholms län","Död:1965 – Västerleds församling, Stockholms län","Band 05 (1925), sida 43.",1925
+17803,30442,Ernst F W Blomberg,"Född:1863-01-04 – Stockholms stad, Stockholms län","Död:1911-03-24 – Stockholms stad, Stockholms län","Band 05 (1925), sida 37.",1925
+17804,23819,Harry Blomberg,"Född:1893-12-19 – Strängnäs stadsförsamling, Södermanlands län","Död:1950 – Stora Tuna församling, Dalarnas län","Band 05 (1925), sida 41.",1925
+17805,39533,K Hugo Blomberg,"Född:1850-02-09 – Hamrånge församling, Gävleborgs län","Död:1909-10-27 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 34.",1925
+17806,21147,E E Sigrid C Blomberg,"Född:1863-10-17 – Fliseryds församling, Kalmar län","Död:1941-01-28 – Karlstads domkyrkoförsamling, Värmlands län","Band 05 (1925), sida 40.",1925
+17807,31212,Didrik Blomcreutz,Född:1715-11-24,Död:1774-11-11 – Finland (i Helsingfors),"Band 05 (1925), sida 44.",1925
+17808,39731,Johan Ulric Blomdahl,"Född:1762-06-10 – Hjärtums församling, Älvsborgs län","Död:1836-05-16 – Stora Lundby församling, Älvsborgs län","Band 05 (1925), sida 47.",1925
+17809,24399,Johan Emil Blomén,"Född:1860-03-30 – Arvika församling, Värmlands län",Död:1920-07-05,"Band 05 (1925), sida 50.",1925
+17810,19465,Carl August Blomgren,"Född:1865-04-01 – Misterhults församling, Kalmar län (på Solstad)","Död:1926 – USA, Amerikas Förenta Stater","Band 05 (1925), sida 51.",1925
+17811,29571,Jöran Blomhjelm,,"Död:1714-02-05 – Stockholms stad, Stockholms län","Band 05 (1925), sida 52.",1925
+17812,33470,Jehubba Petrus Blomkvist,"Född:1843-01-10 – Stenåsa församling, Kalmar län","Död:1909-04-09 – Örebro församling, Örebro län","Band 05 (1925), sida 54.",1925
+17813,28440,Nils Jakob Olsson Blommér,"Född:1816-06-12 – Öveds församling, Skåne län (på Blommeröd)",Död:1853-02-01 – Italien (i Rom),"Band 05 (1925), sida 57.",1925
+17814,23241,Johan Viktor Blomquist,"Född:1871-03-10 – Arboga stadsförsamling, Västmanlands län","Död:1955 – Bromma församling (AB-län), Stockholms län","Band 05 (1925), sida 59.",1925
+17815,17346,"Blomstrand, släkt",,,"Band 05 (1925), sida 61.",1925
 17816,25504,Anders Blomstrand,"Född:1822-12-19 – Växjö stadsförsamling, Kronobergs län","Död:1887-10-17 – Lunds domkyrkoförsamling, Skåne län","Band 05 (1925), sida 62.",1925
-17817,92165,Christian Wilhelm Blomstrand,"Född:1826-10-20 – Växjö stadsförsamling, Kronobergs län","Död:1897-11-05 – Lunds domkyrkoförsamling, Skåne län","Band 05 (1925), sida 64.",1925
-17820,19025, Blotsven,,Död:levde på 1000,"Band 05 (1925), sida 73.",1925
-17821,13573,"Blume, släkt",,,"Band 05 (1925), sida 77.",1925
-17824,21722,Heinrich Blume,Född: – Tyskland (i Bremen),"Död:1648-07 – Stockholms stad, Stockholms län","Band 05 (1925), sida 78.",1925
+17817,93249,Christian Wilhelm Blomstrand,"Född:1826-10-20 – Växjö stadsförsamling, Kronobergs län","Död:1897-11-05 – Lunds domkyrkoförsamling, Skåne län","Band 05 (1925), sida 64.",1925
+17820,20370, Blotsven,,Död:levde på 1000,"Band 05 (1925), sida 73.",1925
+17821,13941,"Blume, släkt",,,"Band 05 (1925), sida 77.",1925
+17824,23191,Heinrich Blume,Född: – Tyskland (i Bremen),"Död:1648-07 – Stockholms stad, Stockholms län","Band 05 (1925), sida 78.",1925
 17826,20826,Peter Blume,Född: – Tyskland (på Rügen),Död:1650,"Band 05 (1925), sida 76.",1925
-17827,21004,Ida A Blumenthal-Gawell,"Född:1869-11-04 – Arbrå församling, Gävleborgs län","Död:1953 – Sankt Görans församling, Stockholms län","Band 05 (1925), sida 79.",1925
-17828,13875,"Blûm, släkt",,,"Band 05 (1925), sida 74.",1925
-17829,18719,Carl H Adolf Blûm,"Född:1828-09-10 – Karlstads stadsförsamling, Värmlands län","Död:1901-06-18 – Linköpings Domkyrkoförsamling, Östergötlands län","Band 05 (1925), sida 75.",1925
-17831,23898,Joar Blå,,Död:levde på 1200,"Band 05 (1925), sida 80.",1925
-17833,72765, Bo Jonsson (Grip),,Död:1386-08-20,"Band 05 (1925), sida 82.",1925
+17827,21121,Ida A Blumenthal-Gawell,"Född:1869-11-04 – Arbrå församling, Gävleborgs län","Död:1953 – Sankt Görans församling, Stockholms län","Band 05 (1925), sida 79.",1925
+17828,14330,"Blûm, släkt",,,"Band 05 (1925), sida 74.",1925
+17829,19831,Carl H Adolf Blûm,"Född:1828-09-10 – Karlstads stadsförsamling, Värmlands län","Död:1901-06-18 – Linköpings Domkyrkoförsamling, Östergötlands län","Band 05 (1925), sida 75.",1925
+17831,26473,Joar Blå,,Död:levde på 1200,"Band 05 (1925), sida 80.",1925
+17833,84789, Bo Jonsson (Grip),,Död:1386-08-20,"Band 05 (1925), sida 82.",1925
 17834,11669,"Boberg, släkt",,,"Band 05 (1925), sida 101.",1925
-17835,20530,Regina S Bobeck (f. Kylberg),"Född:1843-04-05 – Tuns församling, Skaraborgs län (på Såtenäs)","Död:1913-11-17 – Tuns församling, Skaraborgs län (på Tuns prästgård)","Band 05 (1925), sida 91.",1925
-17836,32263,Andreas Boberg,"Född:1678-02-10 – Uppsala domkyrkoförsamling, Uppsala län","Död:1756-11-14 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 93.",1925
+17835,20680,Regina S Bobeck (f. Kylberg),"Född:1843-04-05 – Tuns församling, Skaraborgs län (på Såtenäs)","Död:1913-11-17 – Tuns församling, Skaraborgs län (på Tuns prästgård)","Band 05 (1925), sida 91.",1925
+17836,35949,Andreas Boberg,"Född:1678-02-10 – Uppsala domkyrkoförsamling, Uppsala län","Död:1756-11-14 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 93.",1925
 17837,21641,Anna K Boberg (f. Scholander),"Född:1864-12-03 – Klara församling, Stockholms län","Död:1935-01-27 – Sofia församling (AB-län), Stockholms län","Band 05 (1925), sida 104.",1925
 17838,25426,Carl G Boberg,"Född:1859-08-16 – Mönsterås församling, Kalmar län","Död:1940 – Kalmar domkyrkoförsamling, Kalmar län","Band 05 (1925), sida 98.",1925
-17839,34396,Carl Gustaf Boberg,Född:1714-05-08,"Död:1771-01-31 – Överselö församling, Södermanlands län (på Åleby)","Band 05 (1925), sida 96.",1925
+17839,35065,Carl Gustaf Boberg,Född:1714-05-08,"Död:1771-01-31 – Överselö församling, Södermanlands län (på Åleby)","Band 05 (1925), sida 96.",1925
 17840,34676,G Ferdinand Boberg,"Född:1860-04-11 – Falu Kristine församling, Dalarnas län",Död:1946-05-07,"Band 05 (1925), sida 101.",1925
 17841,19006,Carolina S Bock (f. Richter),"Född:1792-08-28 – Stockholms stad, Stockholms län","Död:1872-03-22 – Stockholms stad, Stockholms län","Band 05 (1925), sida 105.",1925
 17842,26181,K A Sixten Bock,"Född:1884-09-02 – Rogberga församling, Jönköpings län",Död:1946,"Band 05 (1925), sida 107.",1925
@@ -9135,7 +9135,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 18861,23566,Ivar Arwidsson,"Född:1873-10-30 – Stockholms stad, Stockholms län","Död:1936 – Uppsala domkyrkoförsamling, Uppsala län","Band 02 (1920), sida 322.",1920
 18862,25885,Thorsten A Arwidsson,"Född:1827-07-21 – Stockholms stad, Stockholms län","Död:1893-02-06 – Stockholms stad, Stockholms län","Band 02 (1920), sida 320.",1920
 18863,25289,Truls Arwidsson,"Född:1660-11 – Västerviks församling, Kalmar län","Död:1712-07-06 – Stockholms stad, Stockholms län","Band 02 (1920), sida 312.",1920
-18864,32094,Johan Lorentz Aschan,"Född:1772-06-26 – Flisby församling, Jönköpings län (i Aplarp.)","Död:1856-05-20 – Lessebo församling, Kronobergs län (på Lessebo bruk.)","Band 02 (1920), sida 327.",1920
+18864,32126,Johan Lorentz Aschan,"Född:1772-06-26 – Flisby församling, Jönköpings län (i Aplarp.)","Död:1856-05-20 – Lessebo församling, Kronobergs län (på Lessebo bruk.)","Band 02 (1920), sida 327.",1920
 18865,35001,Martinus Laurentii Aschaneus,"Född: – Håtuna församling, Stockholms län (på Aske gård.)",Död:1641,"Band 02 (1920), sida 330.",1920
 18866,14854,"Ascheberg, von, släkt",,,"Band 02 (1920), sida 333.",1920
 18867,28079,"Margaretha Ascheberg, von","Född:1671-07-09 – Brastads församling, Västra Götalands län (på Holma gård.)","Död:1753-10-26 – Vittskövle församling, Kristianstads län (på Vittskövle.)","Band 02 (1920), sida 346.",1920
