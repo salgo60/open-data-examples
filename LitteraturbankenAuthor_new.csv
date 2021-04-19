@@ -1,9 +1,10 @@
 ,WikidataID,authorid,full_name,wd_hos_Litteraturbanken,authorid_norm,show,updated,imported,librisid,WD_Litteraturbanken
-2302,,TärnströmSF,Samuel Fredrik Tärnström,,TarnstromSF,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2347,,ReichenbachAB,Anton Benedikt Reichenbach,,ReichenbachAB,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2320,,JonssonT,Thorsten Jonsson,,JonssonT,True,2021-04-13,2021-04-06,nl0239g62mlsb4b,Litterturbanken_only
+2348,,AnderssonHa,Hans Andersson,,AnderssonHa,True,2021-04-06,2021-04-06,s29qnc2gqqxh8w4l,Litterturbanken_only
+2346,,WavrinskyE,Edvard Wavrinsky,,WavrinskyE,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2345,,SjöborgJG,Johan Gustaf Sjöborg,,SjoborgJG,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2344,,SöderbergCJ,Christian Johannes Söderberg,,SoderbergCJ,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2343,,SkoglundDCA,Daniel Carl Alexander Skoglund,,SkoglundDCA,True,2021-04-06,2021-04-06,dbqtxgcx29blzkk,Litterturbanken_only
+2344,,SkoglundDCA,Daniel Carl Alexander Skoglund,,SkoglundDCA,True,2021-04-06,2021-04-06,dbqtxgcx29blzkk,Litterturbanken_only
+2343,,SandbergS,Sven Sandberg,,SandbergS,True,2021-04-06,2021-04-06,31fjm2nm1vxwpzf,Litterturbanken_only
 2342,,SilfverstopleGL,Gudmund Leonhard Silfverstolpe,,SilfverstopleGL,True,2021-04-06,2021-04-06,hftx1js150xwx1v,Litterturbanken_only
 2341,,KnutssonKnut,Knut Knutsson,,KnutssonKnut,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2340,,DumasA,Alexandre Dumas den äldre,,DumasA,True,2021-04-06,2021-04-06,zw9cc93h5p516d3,Litterturbanken_only
@@ -12,63 +13,61 @@
 2337,,WickmanF,Fredrika Wickman,,WickmanF,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2336,,UtterströmOP,Olof Philip Utterström,,UtterstromOP,True,2021-04-06,2021-04-06,jgvz2sr209b87pv,Litterturbanken_only
 2335,,TidanderLGT,Lars Gustaf Teodor Tidander,,TidanderLGT,True,2021-04-06,2021-04-06,vs6895kd06vw15n,Litterturbanken_only
-2334,,RoseniusEA,Erik Anders Rosenius,,RoseniusEA,True,2021-04-06,2021-04-06,mkz25hd52cdd9t2,Litterturbanken_only
-2346,,WipperlingNF,Nils Fredrik Wipperling,,WipperlingNF,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2348,,AnderssonHa,Hans Andersson,,AnderssonHa,True,2021-04-06,2021-04-06,s29qnc2gqqxh8w4l,Litterturbanken_only
+2347,,ReichenbachAB,Anton Benedikt Reichenbach,,ReichenbachAB,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2302,,StrömbergT,Theodor Strömberg,,StrombergT,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2349,,SchaarHF,Hermania Fredrica Schaar,,SchaarHF,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2361,,WestergrenG,Georg Westergren,,WestergrenG,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2360,,WesteniusJB,Johan Berndt Westenius,,WesteniusJB,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2359,,SchéeleAA,Adolf August Schéele,,ScheeleAA,True,2021-04-06,2021-04-06,pm147n175l4t19h,Litterturbanken_only
-2358,,WeserLA,Lars August Weser,,WeserLA,True,2021-04-06,2021-04-06,nl0361c65m8n170,Litterturbanken_only
-2357,,RobertssonS,Seb. Robertsson,,RobertssonS,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2356,,ThorellAE,Adelaide Eugenie Thorell,,ThorellAE,True,2021-04-06,2021-04-06,0xbfj75j3w07kkv,Litterturbanken_only
+2361,,ArnesonR,Rolf Arneson,,ArnesonR,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2360,,WesterlundCA,Carl Agardh Westerlund,,WesterlundCA,True,2021-04-06,2021-04-06,75knrlzr5qjll5z,Litterturbanken_only
+2359,,WestergrenG,Georg Westergren,,WestergrenG,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2358,,WesteniusJB,Johan Berndt Westenius,,WesteniusJB,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2357,,SchéeleAA,Adolf August Schéele,,ScheeleAA,True,2021-04-06,2021-04-06,pm147n175l4t19h,Litterturbanken_only
+2356,,WeserLA,Lars August Weser,,WeserLA,True,2021-04-06,2021-04-06,nl0361c65m8n170,Litterturbanken_only
 2355,,SparrmanGL,Gustaf Leonard Sparrman,,SparrmanGL,True,2021-04-06,2021-04-06,pm147sk7267k9k2,Litterturbanken_only
-2354,,WavrinskyE,Edvard Wavrinsky,,WavrinskyE,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2353,,JonssonT,Thorsten Jonsson,,JonssonT,True,2021-04-06,2021-04-06,nl0239g62mlsb4b,Litterturbanken_only
-2352,,SandbergS,Sven Sandberg,,SandbergS,True,2021-04-06,2021-04-06,31fjm2nm1vxwpzf,Litterturbanken_only
-2351,,SilfverskjöldA,Aurore Silfverskjöld,,SilfverskjoldA,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2354,,WipperlingNF,Nils Fredrik Wipperling,,WipperlingNF,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2353,,RosenqvistP,Peter Rosenqvist,,RosenqvistP,True,2021-04-06,2021-04-06,zw9dhtqh1qmhdt1,Litterturbanken_only
+2352,,SilfverskjöldA,Aurore Silfverskjöld,,SilfverskjoldA,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2351,,SöderbergCJ,Christian Johannes Söderberg,,SoderbergCJ,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2615,,HedlundSA,Sven Adolf Hedlund,,HedlundSA,True,2021-04-06,2021-03-01,hftw01v10zgt22v,Litterturbanken_only
 2350,,SchartauIE,Ivar Ejlert Schartau,,SchartauIE,True,2021-04-06,2021-04-06,ljx14kx42fkxhcf,Litterturbanken_only
+2334,,RoseniusEA,Erik Anders Rosenius,,RoseniusEA,True,2021-04-06,2021-04-06,mkz25hd52cdd9t2,Litterturbanken_only
 2333,,SundeborgLT,Lars Ture Sundeborg,,SundeborgLT,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2332,,ÅgrenLP,Lars Petter Ågren,,AgrenLP,True,2021-04-06,2021-04-06,97mqtsbt4trpj64,Litterturbanken_only
-2363,,WesterstrandP,Pehr Westerstrand,,WesterstrandP,True,2021-04-06,2021-04-06,20dhl60l3b2nsrw,Litterturbanken_only
-2306,,StengårdP,Per Stengård,,StengardP,True,2021-04-06,2021-04-06,khw03p83146pqww,Litterturbanken_only
+2306,,ÅkerlundPA,P. A. Åkerlund,,AkerlundPA,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2318,,WadströmGAS,Gustaf Adolf Sebastian Wadström,,WadstromGAS,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2317,,SchirmerA,Adolf Schirmer,,SchirmerA,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2301,,StrömbergT,Theodor Strömberg,,StrombergT,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2316,,SelinG,Gustaf Selin,,SelinG,True,2021-04-06,2021-04-06,wt7bfwdf463sb51,Litterturbanken_only
-2303,,TörnegrenCW,Carl Wilhelm Törnegren,,TornegrenCW,True,2021-04-06,2021-04-06,qn2580m85dmlgtm,Litterturbanken_only
-2304,,ÅbergJE,Johan Eggert Åberg,,AbergJE,True,2021-04-06,2021-04-06,pm1476m70v6x614,Litterturbanken_only
-2305,,ÅkerlundPA,P. A. Åkerlund,,AkerlundPA,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2307,,StiernstedtAW,August Wilhelm Stiernstedt,,StiernstedtAW,True,2021-04-06,2021-04-06,0xbd907j0mj590r,Litterturbanken_only
-2308,,HagerlöfJ,Jöns Hagerlöf,,HagerlofJ,True,2021-04-06,2021-04-06,dnwb3wdrb49mjf7g,Litterturbanken_only
-2309,,SydowJL,Julius Leonard von Sydow,,SydowJL,True,2021-04-06,2021-04-06,hftx1pr10dv8pt0,Litterturbanken_only
+2303,,TärnströmSF,Samuel Fredrik Tärnström,,TarnstromSF,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2304,,TörnegrenCW,Carl Wilhelm Törnegren,,TornegrenCW,True,2021-04-06,2021-04-06,qn2580m85dmlgtm,Litterturbanken_only
+2305,,ÅbergJE,Johan Eggert Åberg,,AbergJE,True,2021-04-06,2021-04-06,pm1476m70v6x614,Litterturbanken_only
+2307,,StengårdP,Per Stengård,,StengardP,True,2021-04-06,2021-04-06,khw03p83146pqww,Litterturbanken_only
+2319,,StrömbäckKA,Karl August Strömbäck,,StrombackKA,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2308,,StiernstedtAW,August Wilhelm Stiernstedt,,StiernstedtAW,True,2021-04-06,2021-04-06,0xbd907j0mj590r,Litterturbanken_only
+2309,,HagerlöfJ,Jöns Hagerlöf,,HagerlofJ,True,2021-04-06,2021-04-06,dnwb3wdrb49mjf7g,Litterturbanken_only
 2310,,TunelliC,Charlotta Tunelli,,TunelliC,True,2021-04-06,2021-04-06,rp3691k94t15k83,Litterturbanken_only
 2311,,SaltzaCG,Christina Gustafva von Saltza,,SaltzaCG,True,2021-04-06,2021-04-06,jgvz2gr2343q53c,Litterturbanken_only
 2312,,WijkanderO,Oscar Wijkander,,WijkanderO,True,2021-04-06,2021-04-06,c9prnn3w2hch5sf,Litterturbanken_only
 2313,,WieselgrenS,Sigfrid Wieselgren,,WieselgrenS,True,2021-04-06,2021-04-06,sq469v5b3h8jmmv,Litterturbanken_only
-2318,,WadströmGAS,Gustaf Adolf Sebastian Wadström,,WadstromGAS,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2319,,StrömbäckKA,Karl August Strömbäck,,StrombackKA,True,2021-04-06,2021-04-06,,Litterturbanken_only
+2321,,RunebergC,Carolina Runeberg,,RunebergC,True,2021-04-06,2021-04-06,khw03fs3497cn63,Litterturbanken_only
+2363,,WesterstrandP,Pehr Westerstrand,,WesterstrandP,True,2021-04-06,2021-04-06,20dhl60l3b2nsrw,Litterturbanken_only
+2332,,ÅgrenLP,Lars Petter Ågren,,AgrenLP,True,2021-04-06,2021-04-06,97mqtsbt4trpj64,Litterturbanken_only
 2331,,StråleGH,Gustaf Holdo Stråle,,StraleGH,True,2021-04-06,2021-04-06,ljx14rh41k5xn3q,Litterturbanken_only
-2326,,ÖhlinJL,Josef Ludvig Öhlin,,OhlinJL,True,2021-04-06,2021-04-06,khw044533cg1w5w,Litterturbanken_only
 2330,,SundströmK,Karin Sundström,,SundstromK,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2329,,SundströmG,Gustaf Sundström,,SundstromG,True,2021-04-06,2021-04-06,pm147wb72rdcwp0,Litterturbanken_only
 2328,,RoseliusJE,Jonas Erik Roselius,,RoseliusJE,True,2021-04-06,2021-04-06,75knr3sr5cgjl6h,Litterturbanken_only
 2327,,ÖlanderAH,Axel Herman Ölander,,OlanderAH,True,2021-04-06,2021-04-06,nl0377n64tnsz8v,Litterturbanken_only
+2326,,ÖhlinJL,Josef Ludvig Öhlin,,OhlinJL,True,2021-04-06,2021-04-06,khw044533cg1w5w,Litterturbanken_only
 2325,,RusénLE,Lars Erik Rusén,,RusenLE,True,2021-04-06,2021-04-06,vs69dj3d2phx3r1,Litterturbanken_only
-2320,,RosenqvistP,Peter Rosenqvist,,RosenqvistP,True,2021-04-06,2021-04-06,zw9dhtqh1qmhdt1,Litterturbanken_only
 2324,,StrömU,Ulrika Ström,,StromU,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2323,,StahreGW,Gustaf Wilhelm Stahre,,StahreGW,True,2021-04-06,2021-04-06,20dhl5bl3663xz9,Litterturbanken_only
 2322,,StrömbergBJGL,Bengt Johan Gustaf Lorenz Strömberg,,StrombergBJGL,True,2021-04-06,2021-04-06,42gkn94n09fpcdz,Litterturbanken_only
-2321,,RunebergC,Carolina Runeberg,,RunebergC,True,2021-04-06,2021-04-06,khw03fs3497cn63,Litterturbanken_only
-2362,,ArnesonR,Rolf Arneson,,ArnesonR,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2364,,WesterlundCA,Carl Agardh Westerlund,,WesterlundCA,True,2021-04-06,2021-04-06,75knrlzr5qjll5z,Litterturbanken_only
+2362,,ThorellAE,Adelaide Eugenie Thorell,,ThorellAE,True,2021-04-06,2021-04-06,0xbfj75j3w07kkv,Litterturbanken_only
+2364,,RobertssonS,Seb. Robertsson,,RobertssonS,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2315,,SchillanderH,Hugo Schillander,,SchillanderH,True,2021-04-06,2021-04-06,,Litterturbanken_only
-2369,,WestholmE,Erik Westholm,,WestholmE,True,2021-04-06,2021-04-06,64jmqk1q25nz976,Litterturbanken_only
-2365,,ThiesenSA,Sofia Albertina Thiesen,,ThiesenSA,True,2021-04-06,2021-04-06,qn258zq842g12nn,Litterturbanken_only
-2370,,WennbergFW,Fredrik Wilhelm Wennberg,,WennbergFW,True,2021-04-06,2021-04-06,sq47b45b149qhgc,Litterturbanken_only
+2369,,WennbergFW,Fredrik Wilhelm Wennberg,,WennbergFW,True,2021-04-06,2021-04-06,sq47b45b149qhgc,Litterturbanken_only
+2365,,WestholmE,Erik Westholm,,WestholmE,True,2021-04-06,2021-04-06,64jmqk1q25nz976,Litterturbanken_only
+2370,,SaltzaEF,Edvard Fredrik von Saltza,,SaltzaEF,True,2021-04-06,2021-04-06,fcrvzcmz04k14n0,Litterturbanken_only
 2314,,WieselgrenP,Peter Wieselgren,,WieselgrenP,True,2021-04-06,2021-04-06,20dgjb0l54qbj6x,Litterturbanken_only
 2368,,SvedbergE,Eduard Svedberg,,SvedbergE,True,2021-04-06,2021-04-06,dbqtxl6x2gv94b6,Litterturbanken_only
-2366,,SaltzaEF,Edvard Fredrik von Saltza,,SaltzaEF,True,2021-04-06,2021-04-06,fcrvzcmz04k14n0,Litterturbanken_only
+2366,,ThiesenSA,Sofia Albertina Thiesen,,ThiesenSA,True,2021-04-06,2021-04-06,qn258zq842g12nn,Litterturbanken_only
 2367,,ThorellP,Per Thorell,,ThorellP,True,2021-04-06,2021-04-06,,Litterturbanken_only
 2406,,WendelJ,Johan Wendel,,WendelJ,True,2021-03-01,2021-03-01,vs69d64d4kml9b1,Litterturbanken_only
 2407,,BacklundG,Gusten Backlund,,BacklundG,True,2021-03-01,2021-03-01,jgvz3g222n5kt42,Litterturbanken_only
@@ -100,16 +99,16 @@
 2432,,EriksonAP,Anders Peter Erikson,,EriksonAP,True,2021-03-01,2021-03-01,,Litterturbanken_only
 2404,,BerggrenA,August Berggren,,BerggrenA,True,2021-03-01,2021-03-01,,Litterturbanken_only
 2403,,LienhardtA,August Lienhardt,,LienhardtA,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2371,,VirginAG,Axel Gustaf Virgin,,VirginAG,True,2021-03-01,2021-03-01,53hlplfp5j7smn5,Litterturbanken_only
+2371,,BeckmanE,Ernst Beckman,,BeckmanE,True,2021-03-01,2021-03-01,,Litterturbanken_only
 2402,,BibergJF,Jacob Fredrik Biberg,,BibergJF,True,2021-03-01,2021-03-01,86lnq25s4wsbltk,Litterturbanken_only
-2372,,BeckmanEdvard,Edvard Beckman,,BeckmanEdvard,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2373,,BarthelsonF,Fredrik Barthelson,,BarthelsonF,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2372,,BarthelsonF,Fredrik Barthelson,,BarthelsonF,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2373,,BeckmanEdvard,Edvard Beckman,,BeckmanEdvard,True,2021-03-01,2021-03-01,,Litterturbanken_only
 2374,,KnutssonK,Klas Knutsson,,KnutssonK,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2375,,BruhnJN,Johan Niklas Bruhn,,BruhnJN,True,2021-03-01,2021-03-01,zw9cfngh48k9rhh,Litterturbanken_only
-2376,,BeckmanE,Ernst Beckman,,BeckmanE,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2377,,BengtssonJ,Jakob Bengtsson,,BengtssonJ,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2378,,JohanssonDickensSJJ,Sven Johan Julius Johansson-Dickens,,JohanssonDickensSJJ,True,2021-03-01,2021-03-01,,Litterturbanken_only
-2379,,BennettCH,Charles H. Bennet,,BennettCH,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2375,,BengtssonJ,Jakob Bengtsson,,BengtssonJ,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2376,,BruhnJN,Johan Niklas Bruhn,,BruhnJN,True,2021-03-01,2021-03-01,zw9cfngh48k9rhh,Litterturbanken_only
+2377,,JohanssonDickensSJJ,Sven Johan Julius Johansson-Dickens,,JohanssonDickensSJJ,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2378,,BennettCH,Charles H. Bennet,,BennettCH,True,2021-03-01,2021-03-01,,Litterturbanken_only
+2379,,VirginAG,Axel Gustaf Virgin,,VirginAG,True,2021-03-01,2021-03-01,53hlplfp5j7smn5,Litterturbanken_only
 2380,,WettergrundJ,Josefina Wettergrund,,WettergrundJ,True,2021-03-01,2021-03-01,c9prnmrw2bq002s,Litterturbanken_only
 2381,,FeukL,Lars Feuk,,FeukL,True,2021-03-01,2021-03-01,gdsvqkr01d21qp0,Litterturbanken_only
 2382,,HagbergFT,Fredrik Theodor Hagberg,,HagbergFT,True,2021-03-01,2021-03-01,qn246t681k7ct76,Litterturbanken_only
@@ -401,14 +400,14 @@
 2531,,AlmquistCA,C. A. Almquist,,AlmquistCA,True,2021-03-01,2021-03-01,,Litterturbanken_only
 2532,,LagervallGF,Gustaf Fredrik Lagervall,,LagervallGF,True,2021-03-01,2021-03-01,86lnrpts3v9jsbq,Litterturbanken_only
 2883,,Anonym,Anonym,,Anonym,True,2021-03-01,2007-06-18,,Litterturbanken_only
-2693,,BjörkfeldtL,Leonard Björkfeldt,,BjorkfeldtL,True,2021-01-25,2021-01-25,,Litterturbanken_only
-2694,,TörnqvistP,Peter Törnqvist,,TornqvistP,True,2021-01-25,2021-01-25,,Litterturbanken_only
-2695,,LiebesheimJR,J. R. Liebesheim,,LiebesheimJR,True,2021-01-25,2021-01-25,,Litterturbanken_only
-2696,,HägerstrandForssM,Marianne Hägerstrand-Forss,,HagerstrandForssM,True,2021-01-25,2021-01-25,,Litterturbanken_only
 2697,,LindroosB,Bengt Lindroos,,LindroosB,True,2021-01-25,2021-01-25,,Litterturbanken_only
+2696,,HägerstrandForssM,Marianne Hägerstrand-Forss,,HagerstrandForssM,True,2021-01-25,2021-01-25,,Litterturbanken_only
+2693,,BjörkfeldtL,Leonard Björkfeldt,,BjorkfeldtL,True,2021-01-25,2021-01-25,,Litterturbanken_only
+2695,,LiebesheimJR,J. R. Liebesheim,,LiebesheimJR,True,2021-01-25,2021-01-25,,Litterturbanken_only
+2694,,TörnqvistP,Peter Törnqvist,,TornqvistP,True,2021-01-25,2021-01-25,,Litterturbanken_only
 2698,,TilsleyMJ,M. J. Tilsley,,TilsleyMJ,True,2020-12-04,2020-12-04,,Litterturbanken_only
-2699,,EklundM,Mårten Eklund,,EklundM,True,2020-11-30,2020-11-30,,Litterturbanken_only
 2700,,JohannessonPJ,Petter Johan Johannesson,,JohannessonPJ,True,2020-11-30,2020-11-13,,Litterturbanken_only
+2699,,EklundM,Mårten Eklund,,EklundM,True,2020-11-30,2020-11-30,,Litterturbanken_only
 2701,,BromanG,Gunnar Broman,,BromanG,True,2020-11-13,2020-11-13,,Litterturbanken_only
 2702,,FranklinB,Benjamin Franklin,,FranklinB,True,2020-11-09,2020-11-09,,Litterturbanken_only
 2703,,KornhallD,David Kornhall,,KornhallD,True,2020-10-26,2020-10-26,,Litterturbanken_only
@@ -422,108 +421,108 @@
 2710,,RheenS,Samuel Rheen,,RheenS,True,2020-02-17,2020-02-17,,Litterturbanken_only
 2711,,HögmanB,Bertil Högman,,HogmanB,True,2020-01-27,2020-01-27,,Litterturbanken_only
 2712,,LivinCM,Claes Magnus Livin,,LivinCM,True,2020-01-18,2020-01-18,,Litterturbanken_only
-2715,,MobergL,Lennart Moberg,,MobergL,True,2019-12-02,2019-12-02,,Litterturbanken_only
 2714,,KarlssonJ,Jan Karlsson,,KarlssonJ,True,2019-12-02,2019-12-02,,Litterturbanken_only
+2715,,MobergL,Lennart Moberg,,MobergL,True,2019-12-02,2019-12-02,,Litterturbanken_only
 2713,,DomeijM,Martin Domeij,,DomeijM,True,2019-12-02,2019-12-02,,Litterturbanken_only
-2716,,PabanL,Louis Paban,,PabanL,True,2019-11-28,2019-11-28,,Litterturbanken_only
 2717,,BerggrenM,Martin Berggren,,BerggrenM,True,2019-11-28,2019-11-28,,Litterturbanken_only
-2718,,BrunnströmE,Edvin Bolinus,,BrunnstromE,True,2019-11-28,2019-11-28,,Litterturbanken_only
 2719,,BolinusA,Andreas Bolinus,,BolinusA,True,2019-11-28,2019-11-28,,Litterturbanken_only
-2721,,ChristensenJ,Jens Christensen,,ChristensenJ,True,2019-10-28,2019-10-28,,Litterturbanken_only
+2716,,PabanL,Louis Paban,,PabanL,True,2019-11-28,2019-11-28,,Litterturbanken_only
+2718,,BrunnströmE,Edvin Bolinus,,BrunnstromE,True,2019-11-28,2019-11-28,,Litterturbanken_only
 2720,,RebrénL,Lars Rebrén,,RebrenL,True,2019-10-28,2019-10-28,,Litterturbanken_only
+2721,,ChristensenJ,Jens Christensen,,ChristensenJ,True,2019-10-28,2019-10-28,,Litterturbanken_only
 2722,,SvensktVisarkiv,Svenskt visarkiv,Q15679495,SvensktVisarkiv,True,2019-10-24,2019-10-17,,Litterturbanken_only
 2723,,JohanssonAMCJ,Anna Mathilda Cecilia Johannesdotter Johansson,,JohanssonAMCJ,True,2019-10-17,2019-10-17,,Litterturbanken_only
 2831,,RöökT,Thérèse Hagedorn-Oskarsson,,RookT,True,2019-10-09,2017-09-17,,Litterturbanken_only
-2724,,WarnerVonWarhausenP,Philotheus Warner von Warhausen,,WarnerVonWarhausenP,True,2019-09-23,2019-09-23,,Litterturbanken_only
-2727,,PersmanJ,Joanna Persman,,PersmanJ,True,2019-09-23,2019-09-23,,Litterturbanken_only
 2732,,CarolstadiusLJ,Laurentius Johannis Carolstadius,,CarolstadiusLJ,True,2019-09-23,2019-09-23,,Litterturbanken_only
-2726,,MårtensonP,Per Mårtenson,,MartensonP,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2731,,BlumeE,Eva Blume,,BlumeE,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2730,,RabbénJ,Johan Rabbén,,RabbenJ,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2724,,WarnerVonWarhausenP,Philotheus Warner von Warhausen,,WarnerVonWarhausenP,True,2019-09-23,2019-09-23,,Litterturbanken_only
 2725,,MuraeusSL,Stephanus Laurentii Muraeus,,MuraeusSL,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2726,,MårtensonP,Per Mårtenson,,MartensonP,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2727,,PersmanJ,Joanna Persman,,PersmanJ,True,2019-09-23,2019-09-23,,Litterturbanken_only
 2728,,PetrusEschilli,Petrus Eschilli,,PetrusEschilli,True,2019-09-23,2019-09-23,,Litterturbanken_only
 2729,,IsittD,David Isitt,,IsittD,True,2019-09-23,2019-09-23,,Litterturbanken_only
-2730,,RabbénJ,Johan Rabbén,,RabbenJ,True,2019-09-23,2019-09-23,,Litterturbanken_only
-2731,,BlumeE,Eva Blume,,BlumeE,True,2019-09-23,2019-09-23,,Litterturbanken_only
+2740,,BillingOttossonAM,Ann-Marie Billing-Ottosson,,BillingOttossonAM,True,2019-08-26,2019-08-26,,Litterturbanken_only
 2743,,SchenmarkJ,Johan Schenmark,,SchenmarkJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2733,,SjöbergerL,Leonard Sjöberger,,SjobergerL,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2738,,GaslanderJ,Johan Gaslander,,GaslanderJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2735,,RollinCG,Carl Gustaf Rollin,,RollinCG,True,2019-08-26,2019-08-26,,Litterturbanken_only
 2742,,BlomqvistG,Gunnar Blomqvist,,BlomqvistG,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2741,,TjäderB,Börje Tjäder,,TjaderB,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2739,,SchultzeJR,Johan Reinhold Schultze,,SchultzeJR,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2733,,SjöbergerL,Leonard Sjöberger,,SjobergerL,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2734,,GussgardJ,Jostein Gussgard,,GussgardJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2735,,RollinCG,Carl Gustaf Rollin,,RollinCG,True,2019-08-26,2019-08-26,,Litterturbanken_only
 2736,,ReuterstedtJ,Johan Reuterstedt,,ReuterstedtJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
 2737,,GranlundI,Ingalill Granlund,,GranlundI,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2734,,GussgardJ,Jostein Gussgard,,GussgardJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2739,,SchultzeJR,Johan Reinhold Schultze,,SchultzeJR,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2740,,BillingOttossonAM,Ann-Marie Billing-Ottosson,,BillingOttossonAM,True,2019-08-26,2019-08-26,,Litterturbanken_only
-2741,,TjäderB,Börje Tjäder,,TjaderB,True,2019-08-26,2019-08-26,,Litterturbanken_only
+2738,,GaslanderJ,Johan Gaslander,,GaslanderJ,True,2019-08-26,2019-08-26,,Litterturbanken_only
 2801,,EkT,Thomas Ek,,EkT,True,2019-06-25,2018-09-24,,Litterturbanken_only
-2746,,HollandP,Percy Holland,,HollandP,True,2019-06-24,2019-06-24,,Litterturbanken_only
 2747,,HollmanL,Lennart Hollman,,HollmanL,True,2019-06-24,2019-06-24,,Litterturbanken_only
+2746,,HollandP,Percy Holland,,HollandP,True,2019-06-24,2019-06-24,,Litterturbanken_only
 2745,,ErtmanI,Israel Ertman,,ErtmanI,True,2019-06-24,2019-06-24,,Litterturbanken_only
 2744,,FredlundB,Björn Fredlund,,FredlundB,True,2019-06-24,2019-06-24,,Litterturbanken_only
+2750,,AnderssonHans,Hans Andersson,,AnderssonHans,True,2019-06-18,2019-06-18,,Litterturbanken_only
 2748,,ZykaC,Christine Zyka,,ZykaC,True,2019-06-18,2019-06-18,,Litterturbanken_only
 2749,,RoineJ,Jesper Roine,,RoineJ,True,2019-06-18,2019-06-18,,Litterturbanken_only
-2750,,AnderssonHans,Hans Andersson,,AnderssonHans,True,2019-06-18,2019-06-18,,Litterturbanken_only
-2751,,MattissonEkstamJ,Jane Mattisson Ekstam,,MattissonEkstamJ,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2752,,BrithelliS,Sigrid Brithelli,,BrithelliS,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2753,,HussE,Elvira Huss,,HussE,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2754,,LundgrenD,Disa Lundgren,,LundgrenD,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2755,,SjöstedtH,Helen Sjöstedt,,SjostedtH,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2756,,PålmanE,Elin Pålman,,PalmanE,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2757,,LindstedtS,Sofi Lindstedt,,LindstedtS,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2758,,GohlC,Cecilé Gohl,,GohlC,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2759,,LeopoldL,Lennart Leopold,,LeopoldL,True,2019-05-22,2019-05-22,,Litterturbanken_only
-2760,,FuhrmannS,Stephan Fuhrmann,,FuhrmannS,True,2019-05-22,2019-05-22,,Litterturbanken_only
 2761,,HultgrenOJ,Olof Johan Hultgren,,HultgrenOJ,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2753,,HussE,Elvira Huss,,HussE,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2760,,FuhrmannS,Stephan Fuhrmann,,FuhrmannS,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2751,,MattissonEkstamJ,Jane Mattisson Ekstam,,MattissonEkstamJ,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2759,,LeopoldL,Lennart Leopold,,LeopoldL,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2758,,GohlC,Cecilé Gohl,,GohlC,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2752,,BrithelliS,Sigrid Brithelli,,BrithelliS,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2756,,PålmanE,Elin Pålman,,PalmanE,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2755,,SjöstedtH,Helen Sjöstedt,,SjostedtH,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2754,,LundgrenD,Disa Lundgren,,LundgrenD,True,2019-05-22,2019-05-22,,Litterturbanken_only
+2757,,LindstedtS,Sofi Lindstedt,,LindstedtS,True,2019-05-22,2019-05-22,,Litterturbanken_only
 2762,,GerdinM,Maja Gerdin,,GerdinM,True,2019-05-15,2019-05-15,,Litterturbanken_only
-2767,,SchaumijM,Matthias Schaumij,,SchaumijM,True,2019-04-25,2019-04-25,,Litterturbanken_only
 2766,,SeilerusMJ,J. Joachim Seilerus,,SeilerusMJ,True,2019-04-25,2019-04-25,,Litterturbanken_only
+2767,,SchaumijM,Matthias Schaumij,,SchaumijM,True,2019-04-25,2019-04-25,,Litterturbanken_only
 2765,,HörstedtL,Lars Hörstedt,,HorstedtL,True,2019-04-25,2019-04-25,,Litterturbanken_only
 2764,,StålhammarCL,Carl Leonard Stålhammar,,StalhammarCL,True,2019-04-25,2019-04-25,,Litterturbanken_only
 2763,,NidelbergAS,Ambrosius Svenonis Nidelberg,,NidelbergAS,True,2019-04-25,2019-04-25,,Litterturbanken_only
-2768,,RosenM,Maria von Rosen,,RosenM,True,2019-04-01,2019-04-01,,Litterturbanken_only
-2769,,LindblomE,Edel Lindblom,,LindblomE,True,2019-04-01,2019-04-01,,Litterturbanken_only
 2770,,BertheliusPH,Per-Henrik Berthelius,,BertheliusPH,True,2019-04-01,2019-04-01,,Litterturbanken_only
+2769,,LindblomE,Edel Lindblom,,LindblomE,True,2019-04-01,2019-04-01,,Litterturbanken_only
 2771,,ThuringJE,Johan Eric Thuring,,ThuringJE,True,2019-04-01,2019-04-01,,Litterturbanken_only
+2768,,RosenM,Maria von Rosen,,RosenM,True,2019-04-01,2019-04-01,,Litterturbanken_only
 2876,,NordlundA,Anna Nordlund,,NordlundA,True,2019-04-01,2013-12-11,,Litterturbanken_only
 2846,,WerfwingJG,Johan Gabriel Werfwing,,WerfwingJG,True,2019-02-25,2016-11-16,,Litterturbanken_only
-2775,,ConsettM,Matthew Consett,,ConsettM,True,2019-02-25,2019-02-25,,Litterturbanken_only
-2779,,RomanCG,Christian Gustafsson Roman,,RomanCG,True,2019-02-25,2019-02-25,,Litterturbanken_only
-2778,,OlssonHelmer,Helmer Olsson,,OlssonHelmer,True,2019-02-25,2019-02-25,,Litterturbanken_only
-2776,,ÅlundP,Paulus Ålund,,AlundP,True,2019-02-25,2019-02-25,,Litterturbanken_only
-2772,,FreyJM,J. M. Frey,,FreyJM,True,2019-02-25,2019-02-25,,Litterturbanken_only
 2777,,DeLaChapelleJR,Julius Richart De la Chapelle,,DeLaChapelleJR,True,2019-02-25,2019-02-25,,Litterturbanken_only
 2774,,AhlmanC,Carl O. Ahlman,,AhlmanC,True,2019-02-25,2019-02-25,,Litterturbanken_only
+2778,,OlssonHelmer,Helmer Olsson,,OlssonHelmer,True,2019-02-25,2019-02-25,,Litterturbanken_only
+2776,,ÅlundP,Paulus Ålund,,AlundP,True,2019-02-25,2019-02-25,,Litterturbanken_only
+2775,,ConsettM,Matthew Consett,,ConsettM,True,2019-02-25,2019-02-25,,Litterturbanken_only
+2779,,RomanCG,Christian Gustafsson Roman,,RomanCG,True,2019-02-25,2019-02-25,,Litterturbanken_only
 2773,,CarlheimH,Håkan Carlheim,,CarlheimH,True,2019-02-25,2019-02-25,,Litterturbanken_only
+2772,,FreyJM,J. M. Frey,,FreyJM,True,2019-02-25,2019-02-25,,Litterturbanken_only
 2782,,SilverstolpeGA,Gustaf Abraham Silverstolpe,,SilverstolpeGA,True,2019-01-28,2019-01-28,,Litterturbanken_only
 2781,,CollingL,Lars Colling,,CollingL,True,2019-01-28,2019-01-28,,Litterturbanken_only
 2780,,FredbergCRA,Carl Rudolf A:son Fredberg,,FredbergCRA,True,2019-01-28,2019-01-28,,Litterturbanken_only
 2783,,HellströmC,Carl Hellström,,HellstromC,True,2018-11-26,2018-11-26,,Litterturbanken_only
 2848,,PalmCM,Carl Magnus Palm,,PalmCM,True,2018-11-19,2016-11-14,,Litterturbanken_only
-2787,,HjalmarsonK,Karin Hjalmarson,,HjalmarsonK,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2784,,GedinD,David Gedin,,GedinD,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2785,,OlssonHelene,Hélène Olsson,,OlssonHelene,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2786,,GindtD,Dirk Gindt,,GindtD,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2788,,GuyJH,Jean Henri Guy,,GuyJH,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2789,,GustafsonE,Edla Gustafson,,GustafsonE,True,2018-10-25,2018-10-25,,Litterturbanken_only
 2790,,MårsellM,Maria Mårsell,,MarsellM,True,2018-10-25,2018-10-25,,Litterturbanken_only
-2792,,ÅgrenY,Ylva Ågren,,AgrenY,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2789,,GustafsonE,Edla Gustafson,,GustafsonE,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2788,,GuyJH,Jean Henri Guy,,GuyJH,True,2018-10-25,2018-10-25,,Litterturbanken_only
 2793,,TrolleC,Constance af Trolle,,TrolleC,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2787,,HjalmarsonK,Karin Hjalmarson,,HjalmarsonK,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2786,,GindtD,Dirk Gindt,,GindtD,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2785,,OlssonHelene,Hélène Olsson,,OlssonHelene,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2784,,GedinD,David Gedin,,GedinD,True,2018-10-25,2018-10-25,,Litterturbanken_only
+2792,,ÅgrenY,Ylva Ågren,,AgrenY,True,2018-10-25,2018-10-25,,Litterturbanken_only
 2794,,TraverseF,"François de la Traverse, sieur de Sévigny",,TraverseF,True,2018-10-25,2018-10-25,,Litterturbanken_only
 2802,,MäeotsO,Olga Mäeots,,MaeotsO,True,2018-09-26,2018-09-24,,Litterturbanken_only
-2796,,SundholmJ,John Sundholm,,SundholmJ,True,2018-09-24,2018-09-24,,Litterturbanken_only
-2803,,GetheCJ,Carl Johan Gethe,,GetheCJ,True,2018-09-24,2018-09-24,,Litterturbanken_only
-2799,,BirgerssonM,Maria Birgersson,,BirgerssonM,True,2018-09-24,2018-09-24,,Litterturbanken_only
-2797,,SLS,Svenska litteratursällskapet i Finland,Q769544,SLS,True,2018-09-24,2018-09-24,,Litterturbanken_only
 2798,,NyqvistS,Sanna Nyqvist,,NyqvistS,True,2018-09-24,2018-09-24,,Litterturbanken_only
+2799,,BirgerssonM,Maria Birgersson,,BirgerssonM,True,2018-09-24,2018-09-24,,Litterturbanken_only
 2800,,GöranssonJohannes,Johannes Göransson,,GoranssonJohannes,True,2018-09-24,2018-09-24,,Litterturbanken_only
+2803,,GetheCJ,Carl Johan Gethe,,GetheCJ,True,2018-09-24,2018-09-24,,Litterturbanken_only
 2795,,RuutuH,Hanna Ruutu,,RuutuH,True,2018-09-24,2018-09-24,,Litterturbanken_only
+2797,,SLS,Svenska litteratursällskapet i Finland,Q769544,SLS,True,2018-09-24,2018-09-24,,Litterturbanken_only
+2796,,SundholmJ,John Sundholm,,SundholmJ,True,2018-09-24,2018-09-24,,Litterturbanken_only
 2807,,SjöstrandK,Kari Sjöstrand,,SjostrandK,True,2018-08-27,2018-08-27,,Litterturbanken_only
 2806,,MartiniCC,Carnutus Martini Carelius,,MartiniCC,True,2018-08-27,2018-08-27,,Litterturbanken_only
 2805,,TidströmS,Samuel Tidström,,TidstromS,True,2018-08-27,2018-08-27,,Litterturbanken_only
 2804,,EdelfeltJC,"Johanna Catharina Edefelt, f. Benzelstjerna",,EdelfeltJC,True,2018-08-27,2018-08-27,,Litterturbanken_only
 2811,,LindgrenU,Ulrika Lindgren,,LindgrenU,True,2018-06-21,2018-06-09,,Litterturbanken_only
 2808,,CarterC,Chickering Carter,,CarterC,True,2018-06-16,2018-06-16,,Litterturbanken_only
-2810,,ForsseliusLJ,Laurentius Jonae Forsselius,,ForsseliusLJ,True,2018-06-11,2018-06-11,,Litterturbanken_only
 2809,,FlodmanSO,Sveno Olai Flodman,,FlodmanSO,True,2018-06-11,2018-06-11,,Litterturbanken_only
+2810,,ForsseliusLJ,Laurentius Jonae Forsselius,,ForsseliusLJ,True,2018-06-11,2018-06-11,,Litterturbanken_only
 2812,,EnelundM,Michael Enelund,,EnelundM,True,2018-06-08,2018-06-08,,Litterturbanken_only
 2813,,EversU,Ulla Evers,,EversU,True,2018-05-21,2018-05-21,,Litterturbanken_only
 2814,,HackmanB,Boel Hackman,,HackmanB,True,2018-05-17,2018-05-17,,Litterturbanken_only
@@ -533,9 +532,9 @@
 2878,,DeleenJC,Johanna Carolina Deleen,,DeleenJC,True,2018-03-21,2012-05-27,,Litterturbanken_only
 2818,,DehlgrenA,Alfred Dehlgren,,DehlgrenA,True,2018-02-16,2018-02-16,,Litterturbanken_only
 2819,,BurgensisJM,Joachimus Martini Burgensis,,BurgensisJM,True,2018-02-07,2018-02-07,,Litterturbanken_only
+2820,,HasselbladFW,Fritz W. Hasselblad & Co.,,HasselbladFW,True,2018-02-04,2018-02-04,,Litterturbanken_only
 2822,,HeldvadN,Niels Heldvad,,HeldvadN,True,2018-02-04,2018-02-04,,Litterturbanken_only
 2821,,KrookN,Nils Krook,,KrookN,True,2018-02-04,2018-02-04,,Litterturbanken_only
-2820,,HasselbladFW,Fritz W. Hasselblad & Co.,,HasselbladFW,True,2018-02-04,2018-02-04,,Litterturbanken_only
 2860,,HaskåI,Inger Haskå,,HaskaI,True,2018-02-02,2015-08-04,,Litterturbanken_only
 2823,,GustavssonLagerA,Alvar Gustavsson-Lager,,GustavssonLagerA,True,2018-01-18,2018-01-18,,Litterturbanken_only
 2825,,DahlinG,Gustaf Dahlin,,DahlinG,True,2018-01-18,2018-01-18,,Litterturbanken_only
@@ -543,10 +542,10 @@
 2828,,BSK,Bellmanssällskapet,Q10427902,BSK,True,2017-10-26,2017-10-26,,Litterturbanken_only
 2830,,ForssmanCS,Carl Samuel Forssman,,ForssmanCS,True,2017-09-25,2017-09-25,,Litterturbanken_only
 2829,,GlinkaF,Fjodor Nikolajevitj Glinka,,GlinkaF,True,2017-09-25,2017-09-25,,Litterturbanken_only
-2882,,BergboS,Skogekär Bergbo,Q2292803,BergboS,True,2017-05-10,2010-03-01,,Litterturbanken_only
 2877,,GeijerstamN,Nennie af Geijerstam,,GeijerstamN,True,2017-05-10,2012-08-20,,Litterturbanken_only
 2880,,DahlströmSO,Samuel Olof Dahlström,,DahlstromSO,True,2017-05-10,2010-10-19,,Litterturbanken_only
 2881,,DulciU,Utile Dulci,Q10711493,DulciU,True,2017-05-10,2010-10-19,,Litterturbanken_only
+2882,,BergboS,Skogekär Bergbo,Q2292803,BergboS,True,2017-05-10,2010-03-01,,Litterturbanken_only
 2832,,FriederichM,Mattheus Friederich,,FriederichM,True,2017-05-08,2017-05-08,,Litterturbanken_only
 2833,,BjörklundJ,J. Björklund,,BjorklundJ,True,2017-04-12,2017-04-12,,Litterturbanken_only
 2834,,AkerhielmJ,Jacob Åkerhielm,,AkerhielmJ,True,2017-03-07,2017-03-07,,Litterturbanken_only
