@@ -525,6 +525,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 6236,11042,"(Sparre av Ellinge), Knut Nilsson",,,"Band 32 (2003-2006), sida 784.",2003-2006
 6237,11067,"(Sparre av Ellinge), Nils Clausson",,,"Band 32 (2003-2006), sida 783.",2003-2006
 6238,11067,"(Sparre av Ellinge), Nils Svensson",,,"Band 32 (2003-2006), sida 783.",2003-2006
+6239,78109,"Sparre av Hjulsta och Ängsö, släkt",,,"Band 32 (2003-2006), sida 786.",2003-2006
 6240,11189,"(Sparre av Hjulsta och Ängsö), Bengt Fadersson",,,"Band 32 (2003-2006), sida 788.",2003-2006
 6241,11194,"(Sparre av Hjulsta och Ängsö), Fader Birgersson",,,"Band 32 (2003-2006), sida 786.",2003-2006
 6242,11179,"(Sparre av Hjulsta och Ängsö), Fader Ulfsson",,,"Band 32 (2003-2006), sida 787.",2003-2006
@@ -2157,7 +2158,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 9090,31888,Arvid A Mardefelt,,Död:1708-05-18 – Litauen (på Ziönloffkoff),"Band 25 (1985-1987), sida 134.",1985-1987
 9091,28422,Conrad Mardefelt,,"Död:1688-05-21 – Tyskland (på Wanselow, Pommern)","Band 25 (1985-1987), sida 132.",1985-1987
 9095,33783, Margareta,,Död:senast 1130,"Band 25 (1985-1987), sida 141.",1985-1987
-9096,20037, Margareta,,Död:1209 – Norge (i Norge),"Band 25 (1985-1987), sida 143.",1985-1987
+9096,21048, Margareta,,Död:1209 – Norge (i Norge),"Band 25 (1985-1987), sida 143.",1985-1987
 9097,67974, Margareta,Född:1353,Död:1412-10-28 – Tyskland (i Flensburg),"Band 25 (1985-1987), sida 135.",1985-1987
 9098,22654, Margareta,,Död:tidigast 1414,"Band 25 (1985-1987), sida 146.",1985-1987
 9099,38327, Margareta,,"Död:1551-08-25 – Överselö församling, Södermanlands län (på Tynnelsö)","Band 25 (1985-1987), sida 139.",1985-1987
@@ -4033,7 +4034,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 12093,17116,"Jobs, släkt",,,"Band 20 (1973-1975), sida 178.",1973-1975
 12095,18793,"Jochnick (af Jochnick), släkt",,,"Band 20 (1973-1975), sida 178.",1973-1975
 12097,32567,"J G Adolf Jochnick, af","Född:1870-03-20 – Ledsjö församling, Skaraborgs län (på Kyrkebo)","Död:1943-03-19 – Adolf Fredriks församling, Stockholms län","Band 20 (1973-1975), sida 179.",1973-1975
-12098,26140, Johan Sverkersson,Född:1201,Död:1222-03-10,"Band 20 (1973-1975), sida 181.",1973-1975
+12098,28050, Johan Sverkersson,Född:1201,Död:1222-03-10 – (Visingsö),"Band 20 (1973-1975), sida 181.",1973-1975
 12099,191915, Johan III,"Född:1537-12-20 – Gryts församling (E-län), Östergötlands län (på Stegeborg)","Död:1592-11-17 – Stockholms stad, Stockholms län (på Stockholms slott)","Band 20 (1973-1975), sida 182.",1973-1975
 12100,29222, Johan av Östergötland,"Född:1589-04-18 – Uppsala stad, Uppsala län","Död:1618-03-05 – Dagsbergs församling, Östergötlands län (på Bråborgs slott)","Band 20 (1973-1975), sida 199.",1973-1975
 12102,41436, Johan Botvidi,"Född:1575 – Norrköpings Sankt Olai församling, Östergötlands län","Död:1635-10-24 – Linköpings Domkyrkoförsamling, Östergötlands län","Band 20 (1973-1975), sida 201.",1973-1975
@@ -4754,7 +4755,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 13027,22066,Eric Geringius,"Född:1707-12-19 – Bettna församling, Södermanlands län","Död:1747-01-12 – Jakobs församling, Stockholms län","Band 17 (1967-1969), sida 86.",1967-1969
 13029,21573,Aron Gerle,"Född:1860-09-19 – Örs församling (P-län), Älvsborgs län","Död:1930-12-23 – Katarina församling, Stockholms län","Band 17 (1967-1969), sida 87.",1967-1969
 13030,17237,"Gerle, släkt",,,"Band 17 (1967-1969), sida 88.",1967-1969
-13032,22388,"Gernandt, släkt",,,"Band 17 (1967-1969), sida 89.",1967-1969
+13032,22383,"Gernandt, släkt",,,"Band 17 (1967-1969), sida 89.",1967-1969
 13033,49072,Christian E Gernandt,"Född:1831-04-28 – Kalmar domkyrkoförsamling, Kalmar län","Död:1906-06-02 – Saltsjöbadens församling, Stockholms län","Band 17 (1967-1969), sida 89.",1967-1969
 13034,18876,"Gerner, släkt",,,"Band 17 (1967-1969), sida 92.",1967-1969
 13037,25318,"Gertten, von, släkt",,,"Band 17 (1967-1969), sida 93.",1967-1969
@@ -4821,7 +4822,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 13111,24590,"Govenius, släkt",,,"Band 17 (1967-1969), sida 189.",1967-1969
 13114,20180,"Graan, släkter",,,"Band 17 (1967-1969), sida 191.",1967-1969
 13115,27806,Johan Graan,"Född: – Skellefteå landsförsamling, Västerbottens län (i Skellefteå prästgård)","Död:1679 – Jakobs församling, Stockholms län","Band 17 (1967-1969), sida 190.",1967-1969
-13117,28608,Johan Adam Graaner,"Född:1782-04-16 – Fröslunda församling, Uppsala län (på Torslunda säteri)",Död:1819-11-24 – Sydafrika (på ett engelskt fartyg vid Godahoppsudden),"Band 17 (1967-1969), sida 192.",1967-1969
+13117,28601,Johan Adam Graaner,"Född:1782-04-16 – Fröslunda församling, Uppsala län (på Torslunda säteri)",Död:1819-11-24 – Sydafrika (på ett engelskt fartyg vid Godahoppsudden),"Band 17 (1967-1969), sida 192.",1967-1969
 13118,22128,Nils Grabbe,,Död:1549,"Band 17 (1967-1969), sida 193.",1967-1969
 13119,24676,Alf G Grabe,"Född:1880-09-24 – Domkyrkoförsamlingen i Göteborg, Västra Götalands län","Död:1966-05-06 – Matteus församling (AB-län), Stockholms län","Band 17 (1967-1969), sida 194.",1967-1969
 13120,20984,Carl L Grabow,"Född:1847-12-29 – Tyska Sankta Gertruds församling, Stockholms län","Död:1922-11-23 – Tyska Sankta Gertruds församling, Stockholms län","Band 17 (1967-1969), sida 195.",1967-1969
@@ -4984,7 +4985,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 13328,18425,"Gyldén, släkt",,,"Band 17 (1967-1969), sida 499.",1967-1969
 13329,56536,J A Hugo Gyldén,Född:1841-05-29 – Finland (i Helsingfors),"Död:1896-11-09 – Adolf Fredriks församling, Stockholms län","Band 17 (1967-1969), sida 499.",1967-1969
 13331,47223,Anders Gyldenklou,"Född:1602-12-20 – Högby församling (E-län), Östergötlands län (på Slomarp)","Död:1665-01-10 – Skånela församling, Stockholms län (på Skånellaholm)","Band 17 (1967-1969), sida 504.",1967-1969
-13332,39899,"Gyldenstolpe, släkt",,,"Band 17 (1967-1969), sida 507.",1967-1969
+13332,39908,"Gyldenstolpe, släkt",,,"Band 17 (1967-1969), sida 507.",1967-1969
 13338,56236,Michaël Gyldenstolpe,"Född:1609-02-16 – Pjätteryds församling, Kronobergs län",Död:1670-06-28 – Finland (i Åbo),"Band 17 (1967-1969), sida 509.",1967-1969
 13339,38866,Nils Gyldenstolpe,Född:1642-11-05 – Finland (i Åbo),"Död:1709-05-04 – Nikolai församling, Stockholms län","Band 17 (1967-1969), sida 513.",1967-1969
 13340,29347,Nils Gyldenstolpe,"Född:1768-10-31 – Österåkers församling (D-län), Södermanlands län (på Forsby)","Död:1844-08-28 – Jakobs församling, Stockholms län","Band 17 (1967-1969), sida 517.",1967-1969
@@ -5432,7 +5433,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 13962,44066,Johan Ludvig Hård,Född:1719,Död:1798-08-21 – Tyskland (i Berlin),"Band 19 (1971-1973), sida 587.",1971-1973
 13965,18663,"Hårleman, släkt",,,"Band 19 (1971-1973), sida 591.",1971-1973
 13967,51719,Johan Hårleman,"Född:1662-08-28 – Stockholms stad, Stockholms län","Död:1707-05-26 – Jakobs församling, Stockholms län","Band 19 (1971-1973), sida 592.",1971-1973
-13968,87704,Carl Hårleman,"Född:1700-08-27 – Hovförsamlingen, Stockholms län","Död:1753-02-09 – Klara församling, Stockholms län","Band 19 (1971-1973), sida 596.",1971-1973
+13968,88310,Carl Hårleman,"Född:1700-08-27 – Hovförsamlingen, Stockholms län","Död:1753-02-09 – Klara församling, Stockholms län","Band 19 (1971-1973), sida 596.",1971-1973
 13969,42493,Elis W Håstad,"Född:1900-01-18 – Odensala församling, Stockholms län (i Håsta)","Död:1959-05-07 – Uppsala domkyrkoförsamling, Uppsala län","Band 19 (1971-1973), sida 602.",1971-1973
 13970,20942,"Hägerflycht, släkt",,,"Band 19 (1971-1973), sida 605.",1971-1973
 13972,11035,"Hägerflycht, Nils Arwidsson W",,,"Band 19 (1971-1973), sida 605.",1971-1973
@@ -5591,6 +5592,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 14187,26066,F C Sigge Flach,"Född:1839-10-02 – Fors församling (P-län), Älvsborgs län (på Högärdet)","Död:1921-10-13 – Skärvs församling, Skaraborgs län","Band 16 (1964-1966), sida 99.",1964-1966
 14189,34823,A Wilhelm Flach,"Född:1857-08-16 – Konungsunds församling, Östergötlands län (på Svensksund)","Död:1920-06-12 – Engelbrekts församling, Stockholms län","Band 16 (1964-1966), sida 100.",1964-1966
 14190,41051,"Fleetwood, släkt",,,"Band 16 (1964-1966), sida 102.",1964-1966
+14192,27023,Carl R A G Fleetwood,"Född:1859-07-11 – Svea Livgardes församling, Stockholms län","Död:1892-01-09 – Klara församling, Stockholms län","Band 16 (1964-1966), sida 108.",1964-1966
 14195,50955,George Fleetwood,"Född:1605 – Storbritannien och Nordirland (i Cople, Bedfordshire, England)","Död:1667-06-11 – Gryts församling (D-län), Södermanlands län (på Jälunda)","Band 16 (1964-1966), sida 104.",1964-1966
 14202,46976,"Fleming, släkt",,,"Band 16 (1964-1966), sida 111.",1964-1966
 14203,43960,Claes Adolph Fleming,"Född:1771-04-25 – Stavby församling, Uppsala län (på Lydinge)","Död:1831-05-12 – Hovförsamlingen, Stockholms län","Band 16 (1964-1966), sida 163.",1964-1966
@@ -5677,7 +5679,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 14313,19473,"Forbus, släkt(er)",,,"Band 16 (1964-1966), sida 271.",1964-1966
 14314,32856,Arvid Forbus,"Född:1598-06-15 – Finland (på Ånäs i Borgå sn, Nyland)",Död:1665-05-29 – Polen (i Stettin/Szczecin),"Band 16 (1964-1966), sida 272.",1964-1966
 14315,19885,"Fordell, släkt",,,"Band 16 (1964-1966), sida 273.",1964-1966
-14316,27403,Hans Fordell,,Död:senast 1575,"Band 16 (1964-1966), sida 274.",1964-1966
+14316,27404,Hans Fordell,,Död:senast 1575,"Band 16 (1964-1966), sida 274.",1964-1966
 14317,24182,Hans Fordell,,Död:senast 1606,"Band 16 (1964-1966), sida 275.",1964-1966
 14318,18498,"Forelius, släkt",,,"Band 16 (1964-1966), sida 276.",1964-1966
 14320,50259,Birger E S Forell,"Född:1893-09-27 – Söderhamns församling, Gävleborgs län","Död:1958-07-04 – Borås Caroli församling, Älvsborgs län","Band 16 (1964-1966), sida 277.",1964-1966
@@ -5919,7 +5921,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 14629,35096,Knut J Gadelius,"Född:1864-01-11 – Göteborgs Karl Johans församling, Västra Götalands län","Död:1932-07-18 – Saltsjöbadens församling, Stockholms län","Band 16 (1964-1966), sida 706.",1964-1966
 14630,78991,Hemming Gadh,Född:1450 trol omkr,Död:1520-12 – Finland (troligen i Raseborg),"Band 16 (1964-1966), sida 708.",1964-1966
 14631,23773,Henricus Nicolai Gadolenus,,Död:1593,"Band 16 (1964-1966), sida 713.",1964-1966
-14632,16672,"Gadolin, släkt från Finland",,,"Band 16 (1964-1966), sida 714.",1964-1966
+14632,16739,"Gadolin, släkt från Finland",,,"Band 16 (1964-1966), sida 714.",1964-1966
 14633,38826,Jacob Gadolin,"Född:1719-10-13 – Strängnäs domkyrkoförsamling, Södermanlands län",Död:1802-09-26 – Finland (i Åbo),"Band 16 (1964-1966), sida 715.",1964-1966
 14634,42177,Johan Gadolin,Född:1760-06-05 – Finland (i Åbo),"Död:1852-08-15 – Finland (på Sunila säteri, Virmo)","Band 16 (1964-1966), sida 717.",1964-1966
 14635,25746,L G Rudolf Gagge,"Född:1834-02-27 – Jakobs församling, Stockholms län","Död:1912-02-20 – Västerås domkyrkoförsamling, Västmanlands län","Band 16 (1964-1966), sida 719.",1964-1966
@@ -6372,7 +6374,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 15288,183922,Fredrik Axel von Fersen,"Född:1719-04-05 – Jakobs församling, Stockholms län","Död:1794-04-24 – Jakobs församling, Stockholms län","Band 15 (1956), sida 686.",1956
 15289,44776,"Fabian Fersen, von",Född:1626-02-07 – Estland (i Reval/Tallinn),"Död:1677-07-30 – Malmö stad, Skåne län","Band 15 (1956), sida 664.",1956
 15290,43218,"Fabian Reinhold Fersen, von","Född:1762-10-07 – Jakobs församling, Stockholms län","Död:1818-03-10 – Jakobs församling, Stockholms län","Band 15 (1956), sida 754.",1956
-15292,382722,"Hans Axel Fersen, von","Född:1755-09-04 – Jakobs församling, Stockholms län","Död:1810-06-20 – Stockholms stad, Stockholms län","Band 15 (1956), sida 708.",1956
+15292,383577,"H Axel Fersen, von","Född:1755-09-04 – Jakobs församling, Stockholms län","Död:1810-06-20 – Stockholms stad, Stockholms län","Band 15 (1956), sida 708.",1956
 15293,26372,"Hans Fersen, von",Född:1625-02-27,Död:1683,"Band 15 (1956), sida 662.",1956
 15294,65378,"Hans Fersen, von",Född:1683-03-02 – Estland (i Reval/Tallinn),"Död:1736-05-25 – Jakobs församling, Stockholms län","Band 15 (1956), sida 673.",1956
 15295,11599,"Fersen, von (g. Gyldenstolpe), Hedvig Wilhelmina Augusta Sophie Maria Teresia Lovisa (Louise)",,,"Band 15 (1956), sida 649.",1956
@@ -7595,7 +7597,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 16892,24775,Nicolaus Nicolai Braun,"Född:1658-08-01 – Fagerhults församling, Kalmar län","Död:1729-09-10 – Kalmar stadsförsamling, Kalmar län","Band 06 (1926), sida 104.",1926
 16893,16347,"Braun, von, släkt",,,"Band 06 (1926), sida 106.",1926
 16894,11299,"Braun, von, Amelie Fredrika Dorothea",,,"Band 06 (1926), sida 106.",1926
-16895,54137,"Wilhelm A D Braun, von","Född:1813-11-08 – Kölingareds församling, Älvsborgs län (på Brängesås)","Död:1860-09-12 – Uddevalla församling, Västra Götalands län","Band 06 (1926), sida 106.",1926
+16895,54149,"Wilhelm A D Braun, von","Född:1813-11-08 – Kölingareds församling, Älvsborgs län (på Brängesås)","Död:1860-09-12 – Uddevalla församling, Västra Götalands län","Band 06 (1926), sida 106.",1926
 16896,37183,Fredrik E Braune,"Född:1832-07-18 – Göteborgs stad, Västra Götalands län","Död:1907-01-19 – Lunds domkyrkoförsamling, Skåne län","Band 06 (1926), sida 111.",1926
 16897,12194,"Brauner, släkt",,,"Band 06 (1926), sida 115.",1926
 16898,37500,Johan (Hans) Brauner,"Född:1668-11-05 – Fagerhults församling, Kalmar län","Död:1743-07-10 – Gamla Uppsala församling, Uppsala län","Band 06 (1926), sida 115.",1926
@@ -7761,7 +7763,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 17106,27188, Brynolf Karlsson,Född:1351 omkring,Död:1430,"Band 06 (1926), sida 589.",1926
 17107,32603,Paul (Daniel) Brytzelius,"Född:1713-11-26 – Jonsbergs församling, Östergötlands län (på hemmandet Brytsbo (kapellförs.))","Död:1773-04-09 – Kanada (i Lunenburg, Nova Scotia)","Band 06 (1926), sida 591.",1926
 17108,14894,"Bråkenhielm, släkt",,,"Band 06 (1926), sida 593.",1926
-17109,38935,Gustaf Anton Bråkenhielm,"Född:1837-06-07 – Norra Åsums församling, Kristianstads län (På Lillö kungsgård)","Död:1922-02-13 – Helsingborgs Maria församling, Skåne län","Band 06 (1926), sida 597.",1926
+17109,39120,Gustaf Anton Bråkenhielm,"Född:1837-06-07 – Kristianstads Heliga Trefaldighets församling, Kristianstads län","Död:1922-02-13 – Helsingborgs Maria församling, Skåne län","Band 06 (1926), sida 597.",1926
 17111,11080,"Bråkenhielm (f. Runsten), Malvina G",,,"Band 06 (1926), sida 594.",1926
 17113,35154,Per Reinhold Bråkenhielm,"Född:1796-10-10 – Pjätteryds församling, Kronobergs län (På Bökön)","Död:1878-05-08 – Tvååkers församling, Hallands län","Band 06 (1926), sida 594.",1926
 17115,11035,"Bräckselius, Nicolaus Johannis",,,"Band 06 (1926), sida 172.",1926
@@ -8149,7 +8151,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 17627,35752,Erik Drake,"Född:1625-04-17 – Linderås församling, Jönköpings län (på Göberg)","Död:1673-03-19 – Linderås församling, Jönköpings län (på Göberg)","Band 11 (1945), sida 406.",1945
 17628,41473,Erik Drake,"Född:1788-01-08 – Kisa församling, Östergötlands län (på Föllingsö)","Död:1870-06-09 – Stockholms stad, Stockholms län","Band 11 (1945), sida 414.",1945
 17629,40239,G Axel L Drake,"Född:1834-02-16 – Västra Vingåkers församling, Södermanlands län","Död:1893-09-03 – Nyköpings Alla Helgona församling, Södermanlands län","Band 11 (1945), sida 417.",1945
-17630,28512,Gustaf Drake,"Född:1634 – Målilla med Gårdveda församling, Kalmar län (i Hagelsrum)","Död:1684-11-16 – Ripsa församling, Södermanlands län","Band 11 (1945), sida 409.",1945
+17630,32005,Gustaf Drake,"Född:1634 – Målilla med Gårdveda församling, Kalmar län (i Hagelsrum)","Död:1684-11-16 – Ripsa församling, Södermanlands län","Band 11 (1945), sida 409.",1945
 17632,27698,Hans Drake,,"Död:1653-10-02 – Målilla med Gårdveda församling, Kalmar län (enligt gravsten i Målilla)","Band 11 (1945), sida 404.",1945
 17634,27394,Knut Drake,,"Död:1639-12-21 – Linderås församling, Jönköpings län (på Göberg)","Band 11 (1945), sida 402.",1945
 17635,43521,Magnus Adolf Gottlob Drake,"Född:1833-09-21 – Skedevi församling, Östergötlands län (på Tisenhults säteri)","Död:1906-02-04 – Flens församling, Södermanlands län","Band 11 (1945), sida 420.",1945
@@ -8311,72 +8313,72 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 17829,19831,Carl H Adolf Blûm,"Född:1828-09-10 – Karlstads stadsförsamling, Värmlands län","Död:1901-06-18 – Linköpings Domkyrkoförsamling, Östergötlands län","Band 05 (1925), sida 75.",1925
 17831,26473,Joar Blå,,Död:levde på 1200,"Band 05 (1925), sida 80.",1925
 17833,84789, Bo Jonsson (Grip),,Död:1386-08-20,"Band 05 (1925), sida 82.",1925
-17834,11669,"Boberg, släkt",,,"Band 05 (1925), sida 101.",1925
+17834,11711,"Boberg, släkt",,,"Band 05 (1925), sida 101.",1925
 17835,20680,Regina S Bobeck (f. Kylberg),"Född:1843-04-05 – Tuns församling, Skaraborgs län (på Såtenäs)","Död:1913-11-17 – Tuns församling, Skaraborgs län (på Tuns prästgård)","Band 05 (1925), sida 91.",1925
 17836,35949,Andreas Boberg,"Född:1678-02-10 – Uppsala domkyrkoförsamling, Uppsala län","Död:1756-11-14 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 93.",1925
-17837,21641,Anna K Boberg (f. Scholander),"Född:1864-12-03 – Klara församling, Stockholms län","Död:1935-01-27 – Sofia församling (AB-län), Stockholms län","Band 05 (1925), sida 104.",1925
-17838,25426,Carl G Boberg,"Född:1859-08-16 – Mönsterås församling, Kalmar län","Död:1940 – Kalmar domkyrkoförsamling, Kalmar län","Band 05 (1925), sida 98.",1925
+17837,21759,Anna K Boberg (f. Scholander),"Född:1864-12-03 – Klara församling, Stockholms län","Död:1935-01-27 – Sofia församling (AB-län), Stockholms län","Band 05 (1925), sida 104.",1925
+17838,26062,Carl G Boberg,"Född:1859-08-16 – Mönsterås församling, Kalmar län","Död:1940 – Kalmar domkyrkoförsamling, Kalmar län","Band 05 (1925), sida 98.",1925
 17839,35065,Carl Gustaf Boberg,Född:1714-05-08,"Död:1771-01-31 – Överselö församling, Södermanlands län (på Åleby)","Band 05 (1925), sida 96.",1925
-17840,34676,G Ferdinand Boberg,"Född:1860-04-11 – Falu Kristine församling, Dalarnas län",Död:1946-05-07,"Band 05 (1925), sida 101.",1925
-17841,19006,Carolina S Bock (f. Richter),"Född:1792-08-28 – Stockholms stad, Stockholms län","Död:1872-03-22 – Stockholms stad, Stockholms län","Band 05 (1925), sida 105.",1925
-17842,26181,K A Sixten Bock,"Född:1884-09-02 – Rogberga församling, Jönköpings län",Död:1946,"Band 05 (1925), sida 107.",1925
-17843,25860,Jonas Bodell,"Född:1811-07-22 – Skällviks församling, Östergötlands län (i Botentorp)","Död:1867-02-27 – Luleå stadsförsamling, Norrbottens län","Band 05 (1925), sida 109.",1925
-17844,23984,A G (Gösta) Bodman,"Född:1875-08-05 – Råneå församling, Norrbottens län","Död:1960 – Hedvig Eleonora församling, Stockholms län","Band 05 (1925), sida 111.",1925
-17845,42606,Johan Henrik Boeclerus,"Född:1611-02-13 – Tyskland (i Cronheim, Bayern)",Död:1672-09 – Frankrike (i Strassbourg),"Band 05 (1925), sida 113.",1925
+17840,34701,G Ferdinand Boberg,"Född:1860-04-11 – Falu Kristine församling, Dalarnas län",Död:1946-05-07,"Band 05 (1925), sida 101.",1925
+17841,20086,Carolina S Bock (f. Richter),"Född:1792-08-28 – Stockholms stad, Stockholms län","Död:1872-03-22 – Stockholms stad, Stockholms län","Band 05 (1925), sida 105.",1925
+17842,28114,K A Sixten Bock,"Född:1884-09-02 – Rogberga församling, Jönköpings län","Död:1946-08-16 – Gustav Vasa församling, Stockholms län","Band 05 (1925), sida 107.",1925
+17843,25946,Jonas Bodell,"Född:1811-07-22 – Skällviks församling, Östergötlands län (i Botentorp)","Död:1867-02-27 – Luleå stadsförsamling, Norrbottens län","Band 05 (1925), sida 109.",1925
+17844,24253,A G (Gösta) Bodman,"Född:1875-08-05 – Råneå församling, Norrbottens län","Död:1960 – Hedvig Eleonora församling, Stockholms län","Band 05 (1925), sida 111.",1925
+17845,46528,Johan Henrik Boeclerus,"Född:1611-02-13 – Tyskland (i Cronheim, Bayern)",Död:1672-09 – Frankrike (i Strassbourg),"Band 05 (1925), sida 113.",1925
 17846,20674,"Boëthius, släkt",,,"Band 05 (1925), sida 117.",1925
-17847,96981,Daniel Boëthius,"Född:1751-10-05 – Västerås domkyrkoförsamling, Västmanlands län","Död:1810-03-10 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 133.",1925
+17847,96988,Daniel Boëthius,"Född:1751-10-05 – Västerås domkyrkoförsamling, Västmanlands län","Död:1810-03-10 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 133.",1925
 17849,133995,Jacob Boëthius,"Född:1647-11-25 – Kila församling (U-län), Västmanlands län","Död:1718-02-23 – Kolbäcks församling, Västmanlands län (på Västerkvarn)","Band 05 (1925), sida 118.",1925
-17852,35669,Jacob Edvard Boëthius,"Född:1789-04-19 – Uppsala domkyrkoförsamling, Uppsala län","Död:1849-08-23 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 145.",1925
-17854,126016,Simon J Boëthius,"Född:1850-03-06 – Säfsnäs församling, Dalarnas län","Död:1924-03-29 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 148.",1925
-17855,42200,Nicolas Boëtius,,Död:1632-08-24 – Tyskland (vid Alte Veste utanför Nürnberg),"Band 05 (1925), sida 163.",1925
-17858,13350,"Boheman, släkt",,,"Band 05 (1925), sida 166.",1925
-17859,21945,Carl Adolf Andersson Boheman,"Född:1764-09-03 – Jönköpings Kristina församling, Jönköpings län",Död:1831-04-14 – Tyskland (nära Hamburg),"Band 05 (1925), sida 167.",1925
-17860,43234,Carl Henrik Boheman,"Född:1796-07-10 – Jönköpings Kristina församling, Jönköpings län","Död:1868-11-02 – Stockholms stad, Stockholms län","Band 05 (1925), sida 168.",1925
-17861,36785,Mauritz H A E Boheman,"Född:1858-07-11 – Helgesta församling, Södermanlands län (på Geversnäs herrgård)","Död:1908-01-23 – Stockholms stad, Stockholms län","Band 05 (1925), sida 172.",1925
-17862,33672,Friedrich Bohle,Född:1601-05-17 – Lettland (i Mitau),Död:1658-04-04 – Polen (i Stettin/Szczecin),"Band 05 (1925), sida 175.",1925
-17863,47186,Abraham Bohlin,"Född:1810-06-12 – Marstrands församling, Västra Götalands län","Död:1890-05-28 – Stockholms stad, Stockholms län","Band 05 (1925), sida 178.",1925
-17864,38511,Karl Petrus T Bohlin,"Född:1860-10-30 – Stockholms stad, Stockholms län","Död:1939 – Stockholms stad, Stockholms län","Band 05 (1925), sida 183.",1925
-17865,21407,Knut Harald Bohlin,"Född:1869-08-31 – Stockholms stad, Stockholms län","Död:1956 – Ösmo församling, Stockholms län","Band 05 (1925), sida 188.",1925
-17866,20811,Torsten Bernhard Bohlin,"Född:1889-12-02 – Uppsala domkyrkoförsamling, Uppsala län","Död:1950 – Härnösands domkyrkoförsamling, Västernorrlands län","Band 05 (1925), sida 189.",1925
-17867,47038,Carl Johan Bohman,"Född:1816-09-29 – Jönköpings Kristina församling, Jönköpings län","Död:1882-09-09 – Lidingö församling, Stockholms län","Band 05 (1925), sida 192.",1925
-17868,26764,Johan Bohman,"Född:1790-11-22 – Kisa församling, Östergötlands län (på Tomestorp)","Död:1842-11-01 – Kuddby församling, Östergötlands län","Band 05 (1925), sida 191.",1925
-17869,30616,Johan Emil Bohman,"Född:1831-06-20 – Stockholms stad, Stockholms län","Död:1907-10-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 197.",1925
-17870,13913,"Bohnstedt, släkt",,,"Band 05 (1925), sida 199.",1925
-17871,24583,Carl Fredrik Bohnstedt,Född:1776-06-26 – Tyskland (i Stralsund),"Död:1838-12-03 – Stockholms stad, Stockholms län","Band 05 (1925), sida 200.",1925
-17873,28212,Theodor Ludvig Bohnstedt,"Född:1809-01-30 – Stockholms stad, Stockholms län","Död:1888-02-09 – Ärla församling, Södermanlands län (på Rinkesta)","Band 05 (1925), sida 201.",1925
-17874,12528,"Boij, släkt",,,"Band 05 (1925), sida 204.",1925
-17875,45569,Anders Henrikeson Boij,,Död:1668-01,"Band 05 (1925), sida 204.",1925
-17876,40812,"Anton Boij, von","Född:1631-12-12 – Stockholms stad, Stockholms län",Död:1710-09-01,"Band 05 (1925), sida 208.",1925
-17878,19582,"Boije (af Gennäs), släkt",,,"Band 05 (1925), sida 213.",1925
-17882,33126,Erich Gustaf Boije,Född:1702,"Död:1751-01-19 – Skällviks församling, Östergötlands län (på Degerhov)","Band 05 (1925), sida 236.",1925
-17884,53967,Gustaf Reinhold Boije,Född:1769-03-18 – Finland (i Vasa),Död:1836-02-16 – Finland (på Haga gård),"Band 05 (1925), sida 254.",1925
-17885,95245,Göran Boije,,Död:1617-12-07,"Band 05 (1925), sida 222.",1925
-17887,54842,Hans Henrik Boije,"Född:1716 – Skällviks församling, Östergötlands län","Död:1781-10-02 – Salems församling, Stockholms län (på Högtorp)","Band 05 (1925), sida 239.",1925
-17888,40432,Karl Gustaf Boije,Född:1697,Död:1769-08-08,"Band 05 (1925), sida 233.",1925
-17889,78227,Nils Andersson Boije,,Död:1568,"Band 05 (1925), sida 214.",1925
-17890,25680,Charles Boit,"Född:1662 – Tyska Sankta Gertruds församling, Stockholms län",Död:1727-02-06 – Frankrike (i Paris),"Band 05 (1925), sida 264.",1925
-17891,13755,"Boivie, släkt",,,"Band 05 (1925), sida 266.",1925
-17892,34620,Pehr Gustaf Boivie,"Född:1780-12-03 – Österlövsta församling, Uppsala län (i Åkerby)","Död:1860-01-01 – Hedemora stadsförsamling, Dalarnas län","Band 05 (1925), sida 266.",1925
-17894,16619,Laurentius Bojerus,"Född:1563 – Stockholms stad, Stockholms län",Död:1619-02-13 – Polen (i Braunsberg),"Band 05 (1925), sida 269.",1925
-17896,35377,Johan Christoffer Boklund,"Född:1817-07-15 – Allerums församling, Skåne län (på Kulla Gunnarstorp)","Död:1880-12-09 – Stockholms stad, Stockholms län","Band 05 (1925), sida 270.",1925
+17852,40158,Jacob Edvard Boëthius,"Född:1789-04-19 – Uppsala domkyrkoförsamling, Uppsala län","Död:1849-08-23 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 145.",1925
+17854,126838,Simon J Boëthius,"Född:1850-03-06 – Säfsnäs församling, Dalarnas län","Död:1924-03-29 – Uppsala domkyrkoförsamling, Uppsala län","Band 05 (1925), sida 148.",1925
+17855,42679,Nicolas Boëtius,,Död:1632-08-24 – Tyskland (vid Alte Veste utanför Nürnberg),"Band 05 (1925), sida 163.",1925
+17858,13545,"Boheman, släkt",,,"Band 05 (1925), sida 166.",1925
+17859,23510,Carl Adolf Andersson Boheman,"Född:1764-09-03 – Jönköpings Kristina församling, Jönköpings län",Död:1831-04-14 – Tyskland (nära Hamburg),"Band 05 (1925), sida 167.",1925
+17860,43239,Carl Henrik Boheman,"Född:1796-07-10 – Jönköpings Kristina församling, Jönköpings län","Död:1868-11-02 – Stockholms stad, Stockholms län","Band 05 (1925), sida 168.",1925
+17861,40301,Mauritz H A E Boheman,"Född:1858-07-11 – Helgesta församling, Södermanlands län (på Geversnäs herrgård)","Död:1908-01-23 – Stockholms stad, Stockholms län","Band 05 (1925), sida 172.",1925
+17862,33903,Friedrich Bohle,Född:1601-05-17 – Lettland (i Mitau),Död:1658-04-04 – Polen (i Stettin/Szczecin),"Band 05 (1925), sida 175.",1925
+17863,55263,Abraham Bohlin,"Född:1810-06-12 – Marstrands församling, Västra Götalands län","Död:1890-05-28 – Stockholms stad, Stockholms län","Band 05 (1925), sida 178.",1925
+17864,42991,Karl Petrus T Bohlin,"Född:1860-10-30 – Stockholms stad, Stockholms län","Död:1939 – Stockholms stad, Stockholms län","Band 05 (1925), sida 183.",1925
+17865,21357,Knut H Bohlin,"Född:1869-08-31 – Stockholms stad, Stockholms län","Död:1956 – Ösmo församling, Stockholms län","Band 05 (1925), sida 188.",1925
+17866,21921,Torsten B Bohlin,"Född:1889-12-02 – Uppsala domkyrkoförsamling, Uppsala län","Död:1950 – Härnösands domkyrkoförsamling, Västernorrlands län","Band 05 (1925), sida 189.",1925
+17867,48578,Carl Johan Bohman,"Född:1816-09-29 – Jönköpings Kristina församling, Jönköpings län","Död:1882-09-09 – Lidingö församling, Stockholms län","Band 05 (1925), sida 192.",1925
+17868,27095,Johan Bohman,"Född:1790-11-22 – Kisa församling, Östergötlands län (på Tomestorp)","Död:1842-11-01 – Kuddby församling, Östergötlands län","Band 05 (1925), sida 191.",1925
+17869,30772,Johan Emil Bohman,"Född:1831-06-20 – Stockholms stad, Stockholms län","Död:1907-10-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 197.",1925
+17870,14280,"Bohnstedt, släkt",,,"Band 05 (1925), sida 199.",1925
+17871,24693,Carl Fredrik Bohnstedt,Född:1776-06-26 – Tyskland (i Stralsund),"Död:1838-12-03 – Stockholms stad, Stockholms län","Band 05 (1925), sida 200.",1925
+17873,28201,Theodor Ludvig Bohnstedt,"Född:1809-01-30 – Stockholms stad, Stockholms län","Död:1888-02-09 – Ärla församling, Södermanlands län (på Rinkesta)","Band 05 (1925), sida 201.",1925
+17874,12714,"Boij, släkt",,,"Band 05 (1925), sida 204.",1925
+17875,45834,Anders Henrikeson Boij,,Död:1668-01,"Band 05 (1925), sida 204.",1925
+17876,46142,"Anton Boij, von","Född:1631-12-12 – Stockholms stad, Stockholms län",Död:1710-09-01,"Band 05 (1925), sida 208.",1925
+17878,20992,"Boije (af Gennäs), släkt",,,"Band 05 (1925), sida 213.",1925
+17882,33349,Erich Gustaf Boije,Född:1702,"Död:1751-01-19 – Skällviks församling, Östergötlands län (på Degerhov)","Band 05 (1925), sida 236.",1925
+17884,54444,Gustaf Reinhold Boije,Född:1769-03-18 – Finland (i Vasa),Död:1836-02-16 – Finland (på Haga gård),"Band 05 (1925), sida 254.",1925
+17885,97214,Göran Boije,,Död:1617-12-07,"Band 05 (1925), sida 222.",1925
+17887,55481,Hans Henrik Boije,"Född:1716 – Skällviks församling, Östergötlands län","Död:1781-10-02 – Salems församling, Stockholms län (på Högtorp)","Band 05 (1925), sida 239.",1925
+17888,40994,Karl Gustaf Boije,Född:1697,Död:1769-08-08,"Band 05 (1925), sida 233.",1925
+17889,79827,Nils Andersson Boije,,Död:1568,"Band 05 (1925), sida 214.",1925
+17890,27421,Charles Boit,"Född:1662 – Tyska Sankta Gertruds församling, Stockholms län",Död:1727-02-06 – Frankrike (i Paris),"Band 05 (1925), sida 264.",1925
+17891,14239,"Boivie, släkt",,,"Band 05 (1925), sida 266.",1925
+17892,35101,Pehr Gustaf Boivie,"Född:1780-12-03 – Österlövsta församling, Uppsala län (i Åkerby)","Död:1860-01-01 – Hedemora stadsförsamling, Dalarnas län","Band 05 (1925), sida 266.",1925
+17894,17252,Laurentius Bojerus,"Född:1563 – Stockholms stad, Stockholms län",Död:1619-02-13 – Polen (i Braunsberg),"Band 05 (1925), sida 269.",1925
+17896,35604,Johan Christoffer Boklund,"Född:1817-07-15 – Allerums församling, Skåne län (på Kulla Gunnarstorp)","Död:1880-12-09 – Stockholms stad, Stockholms län","Band 05 (1925), sida 270.",1925
 17897,30102,C August Bokström,"Född:1841-01-16 – Visby stadsförsamling, Gotlands län","Död:1905-02-14 – Visby stadsförsamling, Gotlands län","Band 05 (1925), sida 273.",1925
-17898,22348,Anders Oscar Bolander,"Född:1840-12-30 – Stockholms stad, Stockholms län","Död:1914-11-28 – Stockholms stad, Stockholms län","Band 05 (1925), sida 279.",1925
-17899,21769,Lars Bolander,Född:1731,"Död:1795-02-23 – Stockholms stad, Stockholms län","Band 05 (1925), sida 275.",1925
-17900,26811,Sophie C M Bolander,"Född:1807-01-28 – Göteborgs stad, Västra Götalands län","Död:1869-06-02 – Göteborgs stad, Västra Götalands län","Band 05 (1925), sida 277.",1925
-17902,22895,Pehr K W Bolin,"Född:1865-11-04 – Visby stadsförsamling, Gotlands län",Död:1943,"Band 05 (1925), sida 283.",1925
-17903,33685,Andreas Bolin(us),"Född:1642-12-26 – Södra Unnaryds församling, Hallands län (i Unnaryds kyrkby)",Död:1698,"Band 05 (1925), sida 280.",1925
-17904,12532,"Bolinder, släkt",,,"Band 05 (1925), sida 289.",1925
-17905,16842,Carl G Bolinder,"Född:1818-09-24 – Vaksala församling, Uppsala län","Död:1892-05-21 – Stockholms stad, Stockholms län","Band 05 (1925), sida 291.",1925
-17907,21971,Gustaf Wilhelm Bolinder,"Född:1888-12-19 – Göteborgs stad, Västra Götalands län","Död:1957 – Sankt Görans församling, Stockholms län","Band 05 (1925), sida 287.",1925
-17908,29342,Jean Bolinder,"Född:1813-09-12 – Vaksala församling, Uppsala län","Död:1899-03-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 289.",1925
-17909,23539,Johan (Erik) Bolinder,"Född:1768-11-04 – Söderhamns församling, Gävleborgs län","Död:1808-03-24 – Stockholms stad, Stockholms län","Band 05 (1925), sida 285.",1925
-17910,34750,Bengt Magnus Bolmeer,"Född:1785-01-16 – Vittaryds församling, Kronobergs län","Död:1849-01-11 – Lunds domkyrkoförsamling, Skåne län","Band 05 (1925), sida 292.",1925
-17911,50496,Fredrik August Boltzius,"Född:1836-05-17 – Grava församling, Värmlands län","Död:1910-07-13 – Grava församling, Värmlands län","Band 05 (1925), sida 296.",1925
-17912,33664,Magnus Boman,"Född:1758-12-23 – Mellösa församling, Södermanlands län",Död:1808-11-26,"Band 05 (1925), sida 301.",1925
-17913,51800,Petter (Pehr) Conrad Boman,"Född:1804-06-06 – Stockholms stad, Stockholms län","Död:1861-03-17 – Stockholms stad, Stockholms län","Band 05 (1925), sida 303.",1925
-17914,58372,"Bonde, släkt",,,"Band 05 (1925), sida 308.",1925
+17898,22717,Anders Oscar Bolander,"Född:1840-12-30 – Stockholms stad, Stockholms län","Död:1914-11-28 – Stockholms stad, Stockholms län","Band 05 (1925), sida 279.",1925
+17899,22440,Lars Bolander,Född:1731,"Död:1795-02-23 – Stockholms stad, Stockholms län","Band 05 (1925), sida 275.",1925
+17900,29290,Sophie C M Bolander,"Född:1807-01-28 – Göteborgs stad, Västra Götalands län","Död:1869-06-02 – Göteborgs stad, Västra Götalands län","Band 05 (1925), sida 277.",1925
+17902,24946,Pehr K W Bolin,"Född:1865-11-04 – Visby stadsförsamling, Gotlands län",Död:1943,"Band 05 (1925), sida 283.",1925
+17903,37406,Andreas Bolin(us),"Född:1642-12-26 – Södra Unnaryds församling, Hallands län (i Unnaryds kyrkby)",Död:1698,"Band 05 (1925), sida 280.",1925
+17904,12650,"Bolinder, släkt",,,"Band 05 (1925), sida 289.",1925
+17905,17065,Carl G Bolinder,"Född:1818-09-24 – Vaksala församling, Uppsala län","Död:1892-05-21 – Stockholms stad, Stockholms län","Band 05 (1925), sida 291.",1925
+17907,23536,Gustaf Wilhelm Bolinder,"Född:1888-12-19 – Göteborgs stad, Västra Götalands län","Död:1957 – Sankt Görans församling, Stockholms län","Band 05 (1925), sida 287.",1925
+17908,29561,Jean Bolinder,"Född:1813-09-12 – Vaksala församling, Uppsala län","Död:1899-03-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 289.",1925
+17909,24211,Johan (Erik) Bolinder,"Född:1768-11-04 – Söderhamns församling, Gävleborgs län","Död:1808-03-24 – Stockholms stad, Stockholms län","Band 05 (1925), sida 285.",1925
+17910,38946,Bengt Magnus Bolmeer,"Född:1785-01-16 – Vittaryds församling, Kronobergs län","Död:1849-01-11 – Lunds domkyrkoförsamling, Skåne län","Band 05 (1925), sida 292.",1925
+17911,50489,Fredrik August Boltzius,"Född:1836-05-17 – Grava församling, Värmlands län","Död:1910-07-13 – Grava församling, Värmlands län","Band 05 (1925), sida 296.",1925
+17912,34226,Magnus Boman,"Född:1758-12-23 – Mellösa församling, Södermanlands län",Död:1808-11-26,"Band 05 (1925), sida 301.",1925
+17913,52621,Petter (Pehr) Conrad Boman,"Född:1804-06-06 – Stockholms stad, Stockholms län","Död:1861-03-17 – Stockholms stad, Stockholms län","Band 05 (1925), sida 303.",1925
+17914,66618,"Bonde, släkt",,,"Band 05 (1925), sida 308.",1925
 17915,11031,"(Bonde), Bo Karlsson (Bo Djure)",,,"Band 05 (1925), sida 320.",1925
-17916,113897,Carl Bonde,"Född:1581-10-25 – Trästena församling, Skaraborgs län","Död:1652-02-29 – Lillkyrka församling, Örebro län (på Ekeberg)","Band 05 (1925), sida 325.",1925
+17916,114981,Carl Bonde,"Född:1581-10-25 – Trästena församling, Skaraborgs län","Död:1652-02-29 – Lillkyrka församling, Örebro län (på Ekeberg)","Band 05 (1925), sida 325.",1925
 17917,48268,Carl Bonde,"Född:1648-10-11 – Stockholms stad, Stockholms län","Död:1699-12-16 – Stockholms stad, Stockholms län","Band 05 (1925), sida 355.",1925
 17918,33372,Carl Bonde,"Född:1741-09-11 – Spånga församling, Stockholms län (på Hesselby)","Död:1791-08-04 – Västra Vingåkers församling, Södermanlands län (på Säfstaholm)","Band 05 (1925), sida 381.",1925
 17919,45997,Carl Carlsson Bonde,"Född:1850-06-11 – Stockholms stad, Stockholms län","Död:1913-11-16 – Stora Malms församling, Södermanlands län (på Eriksberg)","Band 05 (1925), sida 408.",1925
@@ -8387,12 +8389,12 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 17926,127161,Gustaf Bonde,"Född:1682-04-06 – Stockholms stad, Stockholms län","Död:1764-12-05 – Stockholms stad, Stockholms län","Band 05 (1925), sida 362.",1925
 17927,34665,Gustaf Trolle- Bonde,"Född:1773-03-28 – Årdala församling, Södermanlands län (på Vibyholm)","Död:1855-01-03 – Stockholms stad, Stockholms län","Band 05 (1925), sida 392.",1925
 17928,19576,"Gustaf Bonde, Trolle-","Född:1806-02-03 – Stockholms stad, Stockholms län","Död:1884-02-05 – Stockholms stad, Stockholms län","Band 05 (1925), sida 396.",1925
-17929,85001,Gustav Bonde,"Född:1620-02-04 – Rinkaby församling (T-län), Örebro län (på Äsplunda)",Död:1667-05-25 – Tyskland (i Hamburg),"Band 05 (1925), sida 339.",1925
-17932,42533,Karl Tordsson Bonde,,Död:1443/45,"Band 05 (1925), sida 318.",1925
+17929,87242,Gustav Bonde,"Född:1620-02-04 – Rinkaby församling (T-län), Örebro län (på Äsplunda)",Död:1667-05-25 – Tyskland (i Hamburg),"Band 05 (1925), sida 339.",1925
+17932,43474,Karl Tordsson Bonde,,Död:1443/45,"Band 05 (1925), sida 318.",1925
 17934,47663,Knut F Bonde,"Född:1815-03-09 – Stora Malms församling, Södermanlands län (på Eriksberg)","Död:1871-10-17 – Stockholms stad, Stockholms län","Band 05 (1925), sida 400.",1925
 17935,58363,Krister Bonde,"Född:1621-12-12 – Rinkaby församling (T-län), Örebro län (på Äsplunda)",Död:1659-05-09 – Danmark (i Helsingör),"Band 05 (1925), sida 349.",1925
 17937,41276,Nils Bonde,"Född:1685-01-19 – Stockholms stad, Stockholms län","Död:1760-04-24 – Stockholms stad, Stockholms län","Band 05 (1925), sida 377.",1925
-17941,34166,Tord Karlsson Bonde,,Död:1456,"Band 05 (1925), sida 322.",1925
+17941,38434,Tord Karlsson Bonde,,Död:1456,"Band 05 (1925), sida 322.",1925
 17944,32986,Tord Röriksson Bonde,,Död:1417-03-21 – (troligen i Karelen på Viborgs slott),"Band 05 (1925), sida 315.",1925
 17947,49615,August L Bondeson,"Född:1854-02-02 – Vessige församling, Hallands län","Död:1906-09-23 – Göteborgs stad, Västra Götalands län","Band 05 (1925), sida 413.",1925
 17948,24943,Per Bondesson,"Född:1843-12-10 – Svalövs församling, Skåne län","Död:1921-08-01 – Malmö stad, Skåne län","Band 05 (1925), sida 418.",1925
@@ -8463,8 +8465,8 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 18022,30510,Carl E A Bovallius,"Född:1849-07-31 – Stockholms stad, Stockholms län",Död:1907-11-08 – Guyana (i Georgetown),"Band 05 (1925), sida 616.",1925
 18023,51697,Robert Mauritz Bowallius,"Född:1817-05-24 – Bergs församling (U-län), Västmanlands län",Död:1902-01-19,"Band 05 (1925), sida 611.",1925
 18024,50524,Willem Boy,Född: – Belgien (i Mecheln),Död:1592,"Band 05 (1925), sida 619.",1925
-18026,46926,Fredrik C Boye,Född:1773-07-07 – Tyskland (i Stralsund),"Död:1857-02-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 260.",1925
-18027,96143,Johan Ludvig Johansson Boye (Boije),"Född:1768-05-24 – Ödeshögs församling, Östergötlands län (på Sjöstorp)","Död:1841-10-20 – Marbäcks församling (F-län), Jönköpings län (på Vrangsjö)","Band 05 (1925), sida 244.",1925
+18026,47856,Fredrik C Boye,Född:1773-07-07 – Tyskland (i Stralsund),"Död:1857-02-08 – Stockholms stad, Stockholms län","Band 05 (1925), sida 260.",1925
+18027,97225,Johan Ludvig Johansson Boye (Boije),"Född:1768-05-24 – Ödeshögs församling, Östergötlands län (på Sjöstorp)","Död:1841-10-20 – Marbäcks församling (F-län), Jönköpings län (på Vrangsjö)","Band 05 (1925), sida 244.",1925
 18028,29043,Waldemar Christopher Brøgger,Född:1851-11-10 – Norge (i Kristiania/Oslo),Död:1940 – Norge (i Kristiania/Oslo),"Band 06 (1926), sida 614.",1926
 18029,53885,Christopher H Braad,"Född:1728-05-28 – Stockholms stad, Stockholms län","Död:1781-10-11 – Norrköpings Sankt Olai församling, Östergötlands län","Band 05 (1925), sida 624.",1925
 18030,14921,"Brag, släkt",,,"Band 05 (1925), sida 632.",1925
@@ -8717,6 +8719,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 18345,14856,"Björnståhl, släkt",,,"Band 04 (1924), sida 722.",1924
 18346,37438,Jacob Gustaf Björnståhl,"Född:1773-06-28 – Torshälla församling, Södermanlands län","Död:1837-01-13 – Västerås domkyrkoförsamling, Västmanlands län","Band 04 (1924), sida 726.",1924
 18347,43135,Jacob Jonas Björnståhl,"Född:1731-01-23 – Näshulta församling, Södermanlands län (på Rotarbo)",Död:1779-07-12 – Grekland (i Saloniki),"Band 04 (1924), sida 723.",1924
+18348,19411,Johan Zacharias Blackstadius,"Född:1816-03-14 – Falkenbergs församling, Hallands län","Död:1898-02-26 – Stockholms stad, Stockholms län","Band 04 (1924), sida 729.",1924
 18349,46678,Alexander Blackwell,Född: – Storbritannien och Nordirland (i Aberdeen),"Död:1747-07-29 – Stockholms stad, Stockholms län","Band 04 (1924), sida 730.",1924
 18350,32740,Anders Blad,Född:1748-01-02 – Finland (i Vasa),"Död:1834-09-14 – Stockholms stad, Stockholms län","Band 04 (1924), sida 741.",1924
 18352,15546,"Bladh, släkt",,,"Band 04 (1924), sida 734.",1924
@@ -9439,6 +9442,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 20135,46362,Uno O Stenholm,"Född:1910-08-31 – Finland (i Helsingfors, Norra sv församling)","Död:1976-05-27 – Alingsås stadsförsamling, Älvsborgs län","Band 33 (2007-2011), sida 335.",2007-2011
 20136,42779,Jacob Stenius,"Född:1704-03-14 – Finland (i Birkala, västra Finlands län)","Död:1766-01-20 – Finland (Pielisjärvi, Östra Finlands län)","Band 33 (2007-2011), sida 338.",2007-2011
 20137,48606,Jacob Stenius,"Född:1732-02-02 – Finland (i Artsjö, Nylands län)","Död:1809-02-05 – Finland (i Pielisjärvi, Östra Finlands län)","Band 33 (2007-2011), sida 341.",2007-2011
+20138,28123,"Stenkilska ätten, släkt",,,"Band 33 (2007-2011), sida 344.",2007-2011
 20139,30005, Stenkil,,Död:omkring 1066,"Band 33 (2007-2011), sida 346.",2007-2011
 20140,37151,H Maria Stenkula,"Född:1842-07-22 – Helsingborgs Maria församling, Skåne län","Död:1932-02-08 – Örkelljunga församling, Kristianstads län","Band 33 (2007-2011), sida 347.",2007-2011
 20141,27591,C August Stenman,"Född:1852-01-28 – Eskilstuna församling, Södermanlands län","Död:1920-08-23 – Stockholms stad, Stockholms län","Band 33 (2007-2011), sida 350.",2007-2011
@@ -9448,7 +9452,7 @@ SBLnr,SBLlength,titel,Fodd,Dod,Band,Year
 20145,38098,Karl J Stenström,"Född:1869-12-14 – Lerbäcks församling, Örebro län","Död:1933-07-21 – Matteus församling (AB-län), Stockholms län","Band 33 (2007-2011), sida 363.",2007-2011
 20146,45129,Nils Petter Stenström,"Född:1750-04-30 – Veberöds församling, Skåne län","Död:1790-04-26 – Hedvig Eleonora församling, Stockholms län","Band 33 (2007-2011), sida 365.",2007-2011
 20147,57322,A Walter Stenström,"Född:1881-08-16 – Målilla med Gårdveda församling, Kalmar län","Död:1926-07-26 – Södertälje församling, Stockholms län","Band 33 (2007-2011), sida 369.",2007-2011
-20148,49382, Stephanus,,Död:1185-07-18,"Band 33 (2007-2011), sida 372.",2007-2011
+20148,49390, Stephanus,,Död:1185-07-18,"Band 33 (2007-2011), sida 372.",2007-2011
 20149,47869,George Stephens,"Född:1783 – Storbritannien och Nordirland (i South Cerney, Gloucestershire, England)",Död:1839-04,"Band 33 (2007-2011), sida 376.",2007-2011
 20150,139583,George Stephens,"Född:1813-12-13 – Storbritannien och Nordirland (i Liverpool, England)","Död:1895-08-09 – Danmark (i Köpenhamn, Fredriksberg)","Band 33 (2007-2011), sida 378.",2007-2011
 20151,55521,A (Anna) C Sterky,Född:1856-04-18 – Danmark (i Köpenhamn),"Död:1939-05-15 – Katarina församling, Stockholms län","Band 33 (2007-2011), sida 388.",2007-2011
@@ -10077,7 +10081,7 @@ Erikson, Eriksson, Erixon, ",,,"Band 14 (1953), sida 443.",1953
 34903,46529,Barbro M ”Lill-Babs” Svensson,"Född:1938-03-09 – Järvsö församling, Gävleborgs län","Död:2018-04-03 – Hedvig Eleonora församling, Stockholms län","Band 34 (2013-2019), sida 672.",2013-2019
 34904,38713,Carl-Hakon Swenson,"Född:1913-05-08 – Västerås domkyrkoförsamling, Västmanlands län","Död:1995-03-21 – Västerås domkyrkoförsamling, Västmanlands län","Band 34 (2013-2019), sida 643.",2013-2019
 34905,39111,Alfons Herbert Charlie Svensson,"Född:1907-04-24 – Sölvesborgs församling, Blekinge län","Död:1960-08-23 – Norrtälje stad, Västra Götalands län","Band 34 (2013-2019), sida 646.",2013-2019
-34906,42588,Sten Alvar Swensson,"Född:1915-01-07 – Anundsjö församling, Västernorrlands län","Död:1995-12-23 – Solna församling, Stockholms län","Band 34 (2013-2019), sida 648.",2013-2019
+34906,42573,S Alvar Swensson,"Född:1915-01-07 – Anundsjö församling, Västernorrlands län","Död:1995-12-23 – Solna församling, Stockholms län","Band 34 (2013-2019), sida 648.",2013-2019
 34907,31396,Fritiof Ansgarius Svensson,"Född:1890-09-19 – Målilla med Gårdveda församling, Kalmar län","Död:1943-09-27 – Vimmerby stadsförsamling, Kalmar län","Band 34 (2013-2019), sida 651.",2013-2019
 34908,97873,Sven Artur Svensson,"Född:1910-03-24 – Kinnareds församling, Hallands län","Död:1982-06-25 – Lunds allhelgonaförsamling, Skåne län","Band 34 (2013-2019), sida 652.",2013-2019
 34909,51320,Assar Natanael Svensson,"Född:1919-08-18 – Skellefteå landsförsamling, Västerbottens län","Död:2005-05-15 – Skellefteå landsförsamling, Västerbottens län","Band 34 (2013-2019), sida 658.",2013-2019
@@ -10126,7 +10130,43 @@ Erikson, Eriksson, Erixon, ",,,"Band 14 (1953), sida 443.",1953
 34954,50695,Bror Fredrik Esbjörn Svensson,"Född:1964-04-16 – Skultuna församling, Västmanlands län","Död:2008-06-14 – Stockholms kommun, Stockholms län (Skarpnäck)","Band 34 (2013-2019), sida 782.",2013-2019
 34955,43520,Carin Dagmar Swensson(-Friberg),"Född:1905-02-28 – Göteborgs Masthuggs församling, Västra Götalands län","Död:1990-10-14 – Oscars församling, Stockholms län","Band 34 (2013-2019), sida 786.",2013-2019
 34961,37396,"Melcher Birckholtz, von",,Död:1750-08-18 – (Stockholm),"Band 04 (1924), sida 408.",1924
+34965,44418,"Sverkerska ätten, ",,,"Band 35 (2019-), sida 11.",2019-
 34966,56571, Sverker den äldre,,"Död:1156-12-25 – Västra Tollstads församling, Östergötlands län","Band 35 (2019-), sida 14.",2019-
 34967,50304, Sverker den yngre,Född:1164/67 ,"Död:1210-07-17 – Frösthults församling, Uppsala län","Band 35 (2019-), sida 18.",2019-
 34968,11114,"Sverker Karlsson, ",,,"Band , sida .",
 34969,11064,"Sverker II, ",,,"Band , sida .",
+34970,11080,"Svensson, Herta",,,"Band , sida .",
+34971,50334,Gunvor Gerda Maria Svensson-Lundkvist,"Född:1916-07-11 – Göteborgs Annedals församling, Västra Götalands län","Död:2009-05-06 – Västerås Lundby församling, Västmanlands län","Band 35 (2019-), sida 1.",2019-
+34972,44914,Berta Eleonora Svensson-Piehl,"Född:1892-05-16 – Adolf Fredriks församling, Stockholms län","Död:1963-10-14 – Oscars församling, Stockholms län","Band 35 (2019-), sida 4.",2019-
+34973,27947, Svenung,,Död:troligen före 1352-08-05,"Band 35 (2019-), sida 9.",2019-
+34974,37400,Swensson-Tollin Albert Kaleb,"Född:1868-03-31 – Lerbäcks församling, Örebro län","Död:1952-09-21 – Kungsholm eller Ulrika Eleonora, Stockholms län","Band 35 (2019-), sida 7.",2019-
+34975,29812,Birger Thorsten Swenzén,"Född:1894-05-03 – Motala församling, Östergötlands län","Död:1965-12-10 – Skeppsholms församling, Stockholms län","Band 35 (2019-), sida 10.",2019-
+34976,11111,"känia, Kettil",,,"Band 35 (2019-), sida 12.",2019-
+34978,11201,"Sverkersdotter, Ingegerd",,,"Band 35 (2019-), sida 12.",2019-
+34979,11201,"Sverkersdotter, Kristina",,,"Band 35 (2019-), sida 12.",2019-
+34980,11206,"Sverkersdotter, Margareta",,,"Band 35 (2019-), sida 12.",2019-
+34981,11122,"Sverkersson, Karl",,,"Band 35 (2019-), sida 12.",2019-
+34982,11062,"Sik, Sune",,,"Band 35 (2019-), sida 13.",2019-
+34983,45800,Willem Swidde,Född:1661 – (Amsterdam),"Död:1697 – Maria Magdalena församling, Stockholms län","Band 35 (2019-), sida 21.",2019-
+34984,45800,Willem Swidde,Född:1661 – (Amsterdam),"Död:1697 – Maria Magdalena församling, Stockholms län","Band 35 (2019-), sida 21.",2019-
+34985,45351,Willem Swidde,Född:1661 – (Amsterdam),Död:1697,"Band 35 (2019-), sida 21.",2019-
+34986,37488,Willem Swidde,Född:1661 – (Amsterdam),"Död:1697 – Maria Magdalena församling, Stockholms län","Band 35 (2019-), sida 21.",2019-
+34987,38208,Otte Swinshoued,,Död:senast 30 juni 1522 – (Stockholm),"Band 35 (2019-), sida 30.",2019-
+34988,11117,"Svinhufvud, Otte",,,"Band 35 (2019-), sida 30.",2019-
+34989,78335,Dagmar Barbro Margaret Svinhufvud,"Född:1909-09-07 – Stockholms katolska församling, Stockholms län","Död:1991-07-22 – Danderyds församling, Stockholms län","Band 35 (2019-), sida 32.",2019-
+34990,15597,Kurt Karl Albert Swolin,"Född:1923-05-23 – (Wuppertal, Tyskland)","Död:1998-04-14 – (Näset, V Göt)","Band 35 (2019-), sida 37.",2019-
+34992,58937,Nils Gunnar Svärd,Född:1911-05-25,Död:1978-08-08,"Band 35 (2019-), sida 39.",2019-
+34993,82063,"Svinhufvud, ",,,"Band 35 (2019-), sida 23.",2019-
+34994,11126,"Swinshwoth, Jöns",,,"Band 35 (2019-), sida 23.",2019-
+34995,11114,"Svinhufvud, Jöns",,,"Band , sida .",
+34996,11147,"Swinshowet, Daniel",,,"Band 35 (2019-), sida 23.",2019-
+34997,11147,"Svinhufvud, Daniel",,,"Band 35 (2019-), sida 23.",2019-
+34998,11122,"Swinshouet, Timme",,,"Band 35 (2019-), sida 23.",2019-
+34999,11122,"Svinhufvud, Timme",,,"Band 35 (2019-), sida 23.",2019-
+35000,11758,Per Hansson,,Död:omkr 1578,"Band 35 (2019-), sida 23.",2019-
+35001,11780,Christer Jönsson,Född:1607,Död:1660,"Band 35 (2019-), sida 23.",2019-
+35002,11766,Erik Svinhufvud,Född:1634,Död:1688,"Band 35 (2019-), sida 23.",2019-
+35003,11771,Jacob Svinhufvud,Född:1677,Död:1738,"Band 35 (2019-), sida 23.",2019-
+35004,56310,Stig Gustaf Eugén Synnergren,"Född:1915-02-25 – Överluleå församling, Norrbottens län","Död:2004-04-28 – Hedvig Eleonora församling, Stockholms län","Band 35 (2019-), sida 138.",2019-
+35006,35486,"Synnergren, släkt, ",,,"Band 35 (2019-), sida 135.",2019-
+35009,11142,"Scholander, Sven",,,"Band 31 (2000-2002), sida 597.",2000-2002
