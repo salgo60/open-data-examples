@@ -28,7 +28,7 @@
 26,http://www.wikidata.org/entity/Q4940209,Q4940209,Ebba Boström,https://kulturpersoner.uppsalakyrkogardar.se/ebba-bostrom/,ebba-bostrom
 27,http://www.wikidata.org/entity/Q60693780,Q60693780,Ebba Sörbom,https://kulturpersoner.uppsalakyrkogardar.se/ebba-sorbom/,ebba-sorbom
 28,http://www.wikidata.org/entity/Q6213641,Q6213641,Egmont Tornberg,https://kulturpersoner.uppsalakyrkogardar.se/egmont-tornber,egmont-tornber
-29,http://www.wikidata.org/entity/Q15405,Q15405,Elias Fries,https://kulturpersoner.uppsalakyrkogardar.se/elias-fries/,elias-fries
+29,http://www.wikidata.org/entity/Q15405,Q15405,Elias Magnus Fries,https://kulturpersoner.uppsalakyrkogardar.se/elias-fries/,elias-fries
 30,http://www.wikidata.org/entity/Q64341955,Q64341955,Elin Eriksson,https://kulturpersoner.uppsalakyrkogardar.se/elin-eriksson/,elin-eriksson
 31,http://www.wikidata.org/entity/Q4951933,Q4951933,Ellen Hagen,https://kulturpersoner.uppsalakyrkogardar.se/ellen-hagen/,ellen-hagen
 32,http://www.wikidata.org/entity/Q4947169,Q4947169,Elsa Eschelsson,https://kulturpersoner.uppsalakyrkogardar.se/elsa-eschelsson/,elsa-eschelsson
@@ -50,74 +50,76 @@
 48,http://www.wikidata.org/entity/Q52554763,Q52554763,Gunilla Bergsten,https://kulturpersoner.uppsalakyrkogardar.se/gunilla-bergsten/,gunilla-bergsten
 49,http://www.wikidata.org/entity/Q58642752,Q58642752,Gurli Taube,https://kulturpersoner.uppsalakyrkogardar.se/gurli-taube/,gurli-taube
 50,http://www.wikidata.org/entity/Q366801,Q366801,Gustaf Fröding,https://kulturpersoner.uppsalakyrkogardar.se/gustaf-froding/,gustaf-froding
-51,http://www.wikidata.org/entity/Q6240176,Q6240176,Gusten Widerbäck,https://kulturpersoner.uppsalakyrkogardar.se/gusten-widerback/,gusten-widerback
-52,http://www.wikidata.org/entity/Q4348813,Q4348813,Gösta Knutsson,https://kulturpersoner.uppsalakyrkogardar.se/gosta-knutsson/,gosta-knutsson
-53,http://www.wikidata.org/entity/Q1960724,Q1960724,Hans Järta,https://kulturpersoner.uppsalakyrkogardar.se/hans-jarta/,hans-jarta
-54,http://www.wikidata.org/entity/Q588259,Q588259,Hans Rosling,https://kulturpersoner.uppsalakyrkogardar.se/hans-rosling/,hans-rosling
-55,http://www.wikidata.org/entity/Q4970525,Q4970525,Helena Nyblom,https://kulturpersoner.uppsalakyrkogardar.se/helena-nyblom/,helena-nyblom
-56,http://www.wikidata.org/entity/Q6159106,Q6159106,Henri Osti,https://kulturpersoner.uppsalakyrkogardar.se/heinrich-osti,heinrich-osti
-57,http://www.wikidata.org/entity/Q5749466,Q5749466,Henrik Gahn den yngre,https://kulturpersoner.uppsalakyrkogardar.se/henrik-gahn/,henrik-gahn
-58,http://www.wikidata.org/entity/Q99484369,Q99484369,Henrik Wilhelm Söderman,https://kulturpersoner.uppsalakyrkogardar.se/henrik-wilhelm-soderman,henrik-wilhelm-soderman
-59,http://www.wikidata.org/entity/Q99488724,Q99488724,Herman Baumbach,https://kulturpersoner.uppsalakyrkogardar.se/herman-baumbach/,herman-baumbach
-60,http://www.wikidata.org/entity/Q64438162,Q64438162,Hildur Akselsson,https://kulturpersoner.uppsalakyrkogardar.se/hildur-akselsson/,hildur-akselsson
-61,http://www.wikidata.org/entity/Q4971483,Q4971483,Hildur Ottelin,https://kulturpersoner.uppsalakyrkogardar.se/hildur-ottelin/,hildur-ottelin
-62,http://www.wikidata.org/entity/Q49099212,Q49099212,Hjalmar Söderberg,https://kulturpersoner.uppsalakyrkogardar.se/hjalmar-soderberg/,hjalmar-soderberg
-63,http://www.wikidata.org/entity/Q4970301,Q4970301,Ida Norrby,https://kulturpersoner.uppsalakyrkogardar.se/ida-norrby/,ida-norrby
-64,http://www.wikidata.org/entity/Q16501988,Q16501988,Ingegerd Beskow,https://kulturpersoner.uppsalakyrkogardar.se/ingegerd-beskow/,ingegerd-beskow
-65,http://www.wikidata.org/entity/Q30331245,Q30331245,Ingrid Årfelt-Svalander,https://kulturpersoner.uppsalakyrkogardar.se/ingrid-arfelt/,ingrid-arfelt
-66,http://www.wikidata.org/entity/Q464768,Q464768,Jan Fridegård,https://kulturpersoner.uppsalakyrkogardar.se/jan-fridegard/,jan-fridegard
-67,http://www.wikidata.org/entity/Q13534119,Q13534119,Jane Miller Thengberg,https://kulturpersoner.uppsalakyrkogardar.se/jane-miller-thengberg/,jane-miller-thengberg
-68,http://www.wikidata.org/entity/Q5585755,Q5585755,Johan Bredman,https://kulturpersoner.uppsalakyrkogardar.se/johan-bredman,johan-bredman
-69,http://www.wikidata.org/entity/Q99484881,Q99484881,Johan Fredrik Carlsson,https://kulturpersoner.uppsalakyrkogardar.se/johan-fredrik-carlsson,johan-fredrik-carlsson
-70,http://www.wikidata.org/entity/Q6169365,Q6169365,Johan Henrik Schröder,https://kulturpersoner.uppsalakyrkogardar.se/johan-henrik-schroder/,johan-henrik-schroder
-71,http://www.wikidata.org/entity/Q5564148,Q5564148,Johan von Bahr,https://kulturpersoner.uppsalakyrkogardar.se/johan-von-bahr/,johan-von-bahr
-72,http://www.wikidata.org/entity/Q22338189,Q22338189,Johanna Ulrika Agnes Geijer,https://kulturpersoner.uppsalakyrkogardar.se/agnes-hamilton-f-geijer/,agnes-hamilton-f-geijer
-73,http://www.wikidata.org/entity/Q17165450,Q17165450,Johanne Grieg Cederblad,https://kulturpersoner.uppsalakyrkogardar.se/johanne-grieg-cederblad/,johanne-grieg-cederblad
-74,http://www.wikidata.org/entity/Q4936564,Q4936564,Karin Arosenius,https://kulturpersoner.uppsalakyrkogardar.se/karin-arosenius/,karin-arosenius
-75,http://www.wikidata.org/entity/Q4990395,Q4990395,Karin Westman Berg,https://kulturpersoner.uppsalakyrkogardar.se/karin-westman-berg/,karin-westman-berg
-76,http://www.wikidata.org/entity/Q5946236,Q5946236,Karl Gustaf Lennander,https://kulturpersoner.uppsalakyrkogardar.se/karl-gustaf-lennander/,karl-gustaf-lennander
-77,http://www.wikidata.org/entity/Q920838,Q920838,Lars Erstrand,https://kulturpersoner.uppsalakyrkogardar.se/lars-erstrand/,lars-erstrand
-78,http://www.wikidata.org/entity/Q3298109,Q3298109,Lasse Eriksson,https://kulturpersoner.uppsalakyrkogardar.se/lasse-eriksson/,lasse-eriksson
-79,http://www.wikidata.org/entity/Q4959699,Q4959699,Lotten von Kræmer,https://kulturpersoner.uppsalakyrkogardar.se/lotten-von-kraemer/,lotten-von-kraemer
-80,http://www.wikidata.org/entity/Q44974337,Q44974337,Louise Stjernstedt,https://kulturpersoner.uppsalakyrkogardar.se/louise-stiernstedt/,louise-stiernstedt
-81,http://www.wikidata.org/entity/Q4940661,Q4940661,Maj Bring,https://kulturpersoner.uppsalakyrkogardar.se/maj-bring/,maj-bring
-82,http://www.wikidata.org/entity/Q546949,Q546949,Malla Silfverstolpe,https://kulturpersoner.uppsalakyrkogardar.se/malla-silfverstolpe/,malla-silfverstolpe
-83,http://www.wikidata.org/entity/Q5822410,Q5822410,Manne Ihran,https://kulturpersoner.uppsalakyrkogardar.se/manne-ihran/,manne-ihran
-84,http://www.wikidata.org/entity/Q4976492,Q4976492,Margit Sahlin,https://kulturpersoner.uppsalakyrkogardar.se/margit-sahlin/,margit-sahlin
-85,http://www.wikidata.org/entity/Q4978657,Q4978657,Mari Simmulson,https://kulturpersoner.uppsalakyrkogardar.se/mari-simmulson/,mari-simmulson
-86,http://www.wikidata.org/entity/Q23988285,Q23988285,Maria Henschen,https://kulturpersoner.uppsalakyrkogardar.se/maria-henschen/,maria-henschen
-87,http://www.wikidata.org/entity/Q29470060,Q29470060,Maria Magdalena Schenson,https://kulturpersoner.uppsalakyrkogardar.se/emma-schenson/,emma-schenson
-88,http://www.wikidata.org/entity/Q99485175,Q99485175,Martin Edlund,https://kulturpersoner.uppsalakyrkogardar.se/martin-edlund/,martin-edlund
-89,http://www.wikidata.org/entity/Q51800428,Q51800428,Mathilde Wigert-Österlund,https://kulturpersoner.uppsalakyrkogardar.se/mathilde-wigert-osterlund/,mathilde-wigert-osterlund
-90,http://www.wikidata.org/entity/Q5715829,Q5715829,Moltas Erikson,https://kulturpersoner.uppsalakyrkogardar.se/jan-moltas-erikson/,jan-moltas-erikson
-91,http://www.wikidata.org/entity/Q16650233,Q16650233,Måns von Rosenstein,https://kulturpersoner.uppsalakyrkogardar.se/mans-von-rosenstein/,mans-von-rosenstein
-92,http://www.wikidata.org/entity/Q6060163,Q6060163,Nils Edvard Raab,https://kulturpersoner.uppsalakyrkogardar.se/edvard-raab/,edvard-raab
-93,http://www.wikidata.org/entity/Q38304699,Q38304699,Nils Gunnar Sundgren,https://kulturpersoner.uppsalakyrkogardar.se/gunnar-sundgren/,gunnar-sundgren
-94,http://www.wikidata.org/entity/Q5711545,Q5711545,Olof Eneroth,https://kulturpersoner.uppsalakyrkogardar.se/olof-eneroth/,olof-eneroth
-95,http://www.wikidata.org/entity/Q6209881,Q6209881,Olof Thunman,https://kulturpersoner.uppsalakyrkogardar.se/olof-thunman/,olof-thunman
-96,http://www.wikidata.org/entity/Q445867,Q445867,Olof Verelius,https://kulturpersoner.uppsalakyrkogardar.se/olof-verelius/,olof-verelius
-97,http://www.wikidata.org/entity/Q6001924,Q6001924,Olof von Nackreij,https://kulturpersoner.uppsalakyrkogardar.se/olof-von-nackreij/,olof-von-nackreij
-98,http://www.wikidata.org/entity/Q5560063,Q5560063,Oscar Arpi,https://kulturpersoner.uppsalakyrkogardar.se/oscar-arpi/,oscar-arpi
-99,http://www.wikidata.org/entity/Q5744398,Q5744398,Otto von Friesen,https://kulturpersoner.uppsalakyrkogardar.se/otto-von-friesen/,otto-von-friesen
-100,http://www.wikidata.org/entity/Q444538,Q444538,Per Daniel Amadeus Atterbom,https://kulturpersoner.uppsalakyrkogardar.se/per-daniel-amadeus-atterbom/,per-daniel-amadeus-atterbom
-101,http://www.wikidata.org/entity/Q711658,Q711658,Pontus Wikner,https://kulturpersoner.uppsalakyrkogardar.se/pontus-wikner/,pontus-wikner
-102,http://www.wikidata.org/entity/Q99485220,Q99485220,Ragni Kjellberg,https://kulturpersoner.uppsalakyrkogardar.se/ragni-kjellberg,ragni-kjellberg
-103,http://www.wikidata.org/entity/Q5921477,Q5921477,Robert Fredrik von Kræmer,https://kulturpersoner.uppsalakyrkogardar.se/robert-von-kraemer/,robert-von-kraemer
-104,http://www.wikidata.org/entity/Q5748272,Q5748272,Robin Fåhræus,https://kulturpersoner.uppsalakyrkogardar.se/robin-fahraeus/,robin-fahraeus
-105,http://www.wikidata.org/entity/Q4970956,Q4970956,Rosalie Olivecrona,https://kulturpersoner.uppsalakyrkogardar.se/rosalie-olivecrona/,rosalie-olivecrona
-106,http://www.wikidata.org/entity/Q99485357,Q99485357,Rune Hammarling,https://kulturpersoner.uppsalakyrkogardar.se/rune-hammarling/,rune-hammarling
-107,http://www.wikidata.org/entity/Q919826,Q919826,Rutger Sernander,https://kulturpersoner.uppsalakyrkogardar.se/rutger-sernander/,rutger-sernander
-108,http://www.wikidata.org/entity/Q38772992,Q38772992,Sixtus Janson,https://kulturpersoner.uppsalakyrkogardar.se/sixtus-janson/,sixtus-janson
-109,http://www.wikidata.org/entity/Q19844789,Q19844789,Sonja Lyttkens,https://kulturpersoner.uppsalakyrkogardar.se/sonja-lyttkens/,sonja-lyttkens
-110,http://www.wikidata.org/entity/Q80956,Q80956,Svante Arrhenius,https://kulturpersoner.uppsalakyrkogardar.se/svante-arrhenius/,svante-arrhenius
-111,http://www.wikidata.org/entity/Q99485352,Q99485352,Sven Anders Hägg,https://kulturpersoner.uppsalakyrkogardar.se/sven-anders-hagg/,sven-anders-hagg
-112,http://www.wikidata.org/entity/Q5951505,Q5951505,Sven Lilja,https://kulturpersoner.uppsalakyrkogardar.se/sven-lilja/,sven-lilja
-113,http://www.wikidata.org/entity/Q4959294,Q4959294,Thekla Knös,https://kulturpersoner.uppsalakyrkogardar.se/thekla-knos/,thekla-knos
-114,http://www.wikidata.org/entity/Q5978552,Q5978552,Topper Martyn,https://kulturpersoner.uppsalakyrkogardar.se/topper-martyn/,topper-martyn
-115,http://www.wikidata.org/entity/Q5795469,Q5795469,Tycho Hedén,https://kulturpersoner.uppsalakyrkogardar.se/tycho-heden/,tycho-heden
-116,http://www.wikidata.org/entity/Q4948950,Q4948950,Ulla-Bella Fridh,https://kulturpersoner.uppsalakyrkogardar.se/ulla-bella-fridh-gabrielsson/,ulla-bella-fridh-gabrielsson
-117,http://www.wikidata.org/entity/Q943803,Q943803,Uno von Troil,https://kulturpersoner.uppsalakyrkogardar.se/uno-von-troil/,uno-von-troil
-118,http://www.wikidata.org/entity/Q6043915,Q6043915,Viktor Persson,https://kulturpersoner.uppsalakyrkogardar.se/viktor-persson/,viktor-persson
-119,http://www.wikidata.org/entity/Q4983741,Q4983741,Vivi Laurent-Täckholm,https://kulturpersoner.uppsalakyrkogardar.se/vivi-tackholm/,vivi-tackholm
-120,http://www.wikidata.org/entity/Q6197251,Q6197251,Yngve Svalander,https://kulturpersoner.uppsalakyrkogardar.se/yngve-svalander/,yngve-svalander
-121,http://www.wikidata.org/entity/Q13390628,Q13390628,Åke Holm,https://kulturpersoner.uppsalakyrkogardar.se/ake-holm/,ake-holm
+51,http://www.wikidata.org/entity/Q6197324,Q6197324,Gustaf Svanberg,https://kulturpersoner.uppsalakyrkogardar.se/gustaf-svanberg-d-y,gustaf-svanberg-d-y
+52,http://www.wikidata.org/entity/Q6197319,Q6197319,Gustaf Svanberg,https://kulturpersoner.uppsalakyrkogardar.se/gustaf-svanberg,gustaf-svanberg
+53,http://www.wikidata.org/entity/Q6240176,Q6240176,Gusten Widerbäck,https://kulturpersoner.uppsalakyrkogardar.se/gusten-widerback/,gusten-widerback
+54,http://www.wikidata.org/entity/Q4348813,Q4348813,Gösta Knutsson,https://kulturpersoner.uppsalakyrkogardar.se/gosta-knutsson/,gosta-knutsson
+55,http://www.wikidata.org/entity/Q1960724,Q1960724,Hans Järta,https://kulturpersoner.uppsalakyrkogardar.se/hans-jarta/,hans-jarta
+56,http://www.wikidata.org/entity/Q588259,Q588259,Hans Rosling,https://kulturpersoner.uppsalakyrkogardar.se/hans-rosling/,hans-rosling
+57,http://www.wikidata.org/entity/Q4970525,Q4970525,Helena Nyblom,https://kulturpersoner.uppsalakyrkogardar.se/helena-nyblom/,helena-nyblom
+58,http://www.wikidata.org/entity/Q6159106,Q6159106,Henri Osti,https://kulturpersoner.uppsalakyrkogardar.se/heinrich-osti,heinrich-osti
+59,http://www.wikidata.org/entity/Q5749466,Q5749466,Henrik Gahn den yngre,https://kulturpersoner.uppsalakyrkogardar.se/henrik-gahn/,henrik-gahn
+60,http://www.wikidata.org/entity/Q99484369,Q99484369,Henrik Wilhelm Söderman,https://kulturpersoner.uppsalakyrkogardar.se/henrik-wilhelm-soderman,henrik-wilhelm-soderman
+61,http://www.wikidata.org/entity/Q99488724,Q99488724,Herman Baumbach,https://kulturpersoner.uppsalakyrkogardar.se/herman-baumbach/,herman-baumbach
+62,http://www.wikidata.org/entity/Q64438162,Q64438162,Hildur Akselsson,https://kulturpersoner.uppsalakyrkogardar.se/hildur-akselsson/,hildur-akselsson
+63,http://www.wikidata.org/entity/Q4971483,Q4971483,Hildur Ottelin,https://kulturpersoner.uppsalakyrkogardar.se/hildur-ottelin/,hildur-ottelin
+64,http://www.wikidata.org/entity/Q49099212,Q49099212,Hjalmar Söderberg,https://kulturpersoner.uppsalakyrkogardar.se/hjalmar-soderberg/,hjalmar-soderberg
+65,http://www.wikidata.org/entity/Q4970301,Q4970301,Ida Norrby,https://kulturpersoner.uppsalakyrkogardar.se/ida-norrby/,ida-norrby
+66,http://www.wikidata.org/entity/Q16501988,Q16501988,Ingegerd Beskow,https://kulturpersoner.uppsalakyrkogardar.se/ingegerd-beskow/,ingegerd-beskow
+67,http://www.wikidata.org/entity/Q30331245,Q30331245,Ingrid Årfelt-Svalander,https://kulturpersoner.uppsalakyrkogardar.se/ingrid-arfelt/,ingrid-arfelt
+68,http://www.wikidata.org/entity/Q464768,Q464768,Jan Fridegård,https://kulturpersoner.uppsalakyrkogardar.se/jan-fridegard/,jan-fridegard
+69,http://www.wikidata.org/entity/Q13534119,Q13534119,Jane Miller Thengberg,https://kulturpersoner.uppsalakyrkogardar.se/jane-miller-thengberg/,jane-miller-thengberg
+70,http://www.wikidata.org/entity/Q5585755,Q5585755,Johan Bredman,https://kulturpersoner.uppsalakyrkogardar.se/johan-bredman,johan-bredman
+71,http://www.wikidata.org/entity/Q99484881,Q99484881,Johan Fredrik Carlsson,https://kulturpersoner.uppsalakyrkogardar.se/johan-fredrik-carlsson,johan-fredrik-carlsson
+72,http://www.wikidata.org/entity/Q6169365,Q6169365,Johan Henrik Schröder,https://kulturpersoner.uppsalakyrkogardar.se/johan-henrik-schroder/,johan-henrik-schroder
+73,http://www.wikidata.org/entity/Q5564148,Q5564148,Johan von Bahr,https://kulturpersoner.uppsalakyrkogardar.se/johan-von-bahr/,johan-von-bahr
+74,http://www.wikidata.org/entity/Q22338189,Q22338189,Johanna Ulrika Agnes Geijer,https://kulturpersoner.uppsalakyrkogardar.se/agnes-hamilton-f-geijer/,agnes-hamilton-f-geijer
+75,http://www.wikidata.org/entity/Q17165450,Q17165450,Johanne Grieg Cederblad,https://kulturpersoner.uppsalakyrkogardar.se/johanne-grieg-cederblad/,johanne-grieg-cederblad
+76,http://www.wikidata.org/entity/Q4936564,Q4936564,Karin Arosenius,https://kulturpersoner.uppsalakyrkogardar.se/karin-arosenius/,karin-arosenius
+77,http://www.wikidata.org/entity/Q4990395,Q4990395,Karin Westman Berg,https://kulturpersoner.uppsalakyrkogardar.se/karin-westman-berg/,karin-westman-berg
+78,http://www.wikidata.org/entity/Q5946236,Q5946236,Karl Gustaf Lennander,https://kulturpersoner.uppsalakyrkogardar.se/karl-gustaf-lennander/,karl-gustaf-lennander
+79,http://www.wikidata.org/entity/Q920838,Q920838,Lars Erstrand,https://kulturpersoner.uppsalakyrkogardar.se/lars-erstrand/,lars-erstrand
+80,http://www.wikidata.org/entity/Q3298109,Q3298109,Lasse Eriksson,https://kulturpersoner.uppsalakyrkogardar.se/lasse-eriksson/,lasse-eriksson
+81,http://www.wikidata.org/entity/Q4959699,Q4959699,Lotten von Kræmer,https://kulturpersoner.uppsalakyrkogardar.se/lotten-von-kraemer/,lotten-von-kraemer
+82,http://www.wikidata.org/entity/Q44974337,Q44974337,Louise Stjernstedt,https://kulturpersoner.uppsalakyrkogardar.se/louise-stiernstedt/,louise-stiernstedt
+83,http://www.wikidata.org/entity/Q4940661,Q4940661,Maj Bring,https://kulturpersoner.uppsalakyrkogardar.se/maj-bring/,maj-bring
+84,http://www.wikidata.org/entity/Q546949,Q546949,Malla Silfverstolpe,https://kulturpersoner.uppsalakyrkogardar.se/malla-silfverstolpe/,malla-silfverstolpe
+85,http://www.wikidata.org/entity/Q5822410,Q5822410,Manne Ihran,https://kulturpersoner.uppsalakyrkogardar.se/manne-ihran/,manne-ihran
+86,http://www.wikidata.org/entity/Q4976492,Q4976492,Margit Sahlin,https://kulturpersoner.uppsalakyrkogardar.se/margit-sahlin/,margit-sahlin
+87,http://www.wikidata.org/entity/Q4978657,Q4978657,Mari Simmulson,https://kulturpersoner.uppsalakyrkogardar.se/mari-simmulson/,mari-simmulson
+88,http://www.wikidata.org/entity/Q23988285,Q23988285,Maria Henschen,https://kulturpersoner.uppsalakyrkogardar.se/maria-henschen/,maria-henschen
+89,http://www.wikidata.org/entity/Q29470060,Q29470060,Maria Magdalena Schenson,https://kulturpersoner.uppsalakyrkogardar.se/emma-schenson/,emma-schenson
+90,http://www.wikidata.org/entity/Q99485175,Q99485175,Martin Edlund,https://kulturpersoner.uppsalakyrkogardar.se/martin-edlund/,martin-edlund
+91,http://www.wikidata.org/entity/Q51800428,Q51800428,Mathilde Wigert-Österlund,https://kulturpersoner.uppsalakyrkogardar.se/mathilde-wigert-osterlund/,mathilde-wigert-osterlund
+92,http://www.wikidata.org/entity/Q5715829,Q5715829,Moltas Erikson,https://kulturpersoner.uppsalakyrkogardar.se/jan-moltas-erikson/,jan-moltas-erikson
+93,http://www.wikidata.org/entity/Q16650233,Q16650233,Måns von Rosenstein,https://kulturpersoner.uppsalakyrkogardar.se/mans-von-rosenstein/,mans-von-rosenstein
+94,http://www.wikidata.org/entity/Q6060163,Q6060163,Nils Edvard Raab,https://kulturpersoner.uppsalakyrkogardar.se/edvard-raab/,edvard-raab
+95,http://www.wikidata.org/entity/Q38304699,Q38304699,Nils Gunnar Sundgren,https://kulturpersoner.uppsalakyrkogardar.se/gunnar-sundgren/,gunnar-sundgren
+96,http://www.wikidata.org/entity/Q5711545,Q5711545,Olof Eneroth,https://kulturpersoner.uppsalakyrkogardar.se/olof-eneroth/,olof-eneroth
+97,http://www.wikidata.org/entity/Q6209881,Q6209881,Olof Thunman,https://kulturpersoner.uppsalakyrkogardar.se/olof-thunman/,olof-thunman
+98,http://www.wikidata.org/entity/Q445867,Q445867,Olof Verelius,https://kulturpersoner.uppsalakyrkogardar.se/olof-verelius/,olof-verelius
+99,http://www.wikidata.org/entity/Q6001924,Q6001924,Olof von Nackreij,https://kulturpersoner.uppsalakyrkogardar.se/olof-von-nackreij/,olof-von-nackreij
+100,http://www.wikidata.org/entity/Q5560063,Q5560063,Oscar Arpi,https://kulturpersoner.uppsalakyrkogardar.se/oscar-arpi/,oscar-arpi
+101,http://www.wikidata.org/entity/Q5744398,Q5744398,Otto von Friesen,https://kulturpersoner.uppsalakyrkogardar.se/otto-von-friesen/,otto-von-friesen
+102,http://www.wikidata.org/entity/Q444538,Q444538,Per Daniel Amadeus Atterbom,https://kulturpersoner.uppsalakyrkogardar.se/per-daniel-amadeus-atterbom/,per-daniel-amadeus-atterbom
+103,http://www.wikidata.org/entity/Q711658,Q711658,Pontus Wikner,https://kulturpersoner.uppsalakyrkogardar.se/pontus-wikner/,pontus-wikner
+104,http://www.wikidata.org/entity/Q99485220,Q99485220,Ragni Kjellberg,https://kulturpersoner.uppsalakyrkogardar.se/ragni-kjellberg,ragni-kjellberg
+105,http://www.wikidata.org/entity/Q5921477,Q5921477,Robert Fredrik von Kræmer,https://kulturpersoner.uppsalakyrkogardar.se/robert-von-kraemer/,robert-von-kraemer
+106,http://www.wikidata.org/entity/Q5748272,Q5748272,Robin Fåhræus,https://kulturpersoner.uppsalakyrkogardar.se/robin-fahraeus/,robin-fahraeus
+107,http://www.wikidata.org/entity/Q4970956,Q4970956,Rosalie Olivecrona,https://kulturpersoner.uppsalakyrkogardar.se/rosalie-olivecrona/,rosalie-olivecrona
+108,http://www.wikidata.org/entity/Q99485357,Q99485357,Rune Hammarling,https://kulturpersoner.uppsalakyrkogardar.se/rune-hammarling/,rune-hammarling
+109,http://www.wikidata.org/entity/Q919826,Q919826,Rutger Sernander,https://kulturpersoner.uppsalakyrkogardar.se/rutger-sernander/,rutger-sernander
+110,http://www.wikidata.org/entity/Q38772992,Q38772992,Sixtus Janson,https://kulturpersoner.uppsalakyrkogardar.se/sixtus-janson/,sixtus-janson
+111,http://www.wikidata.org/entity/Q19844789,Q19844789,Sonja Lyttkens,https://kulturpersoner.uppsalakyrkogardar.se/sonja-lyttkens/,sonja-lyttkens
+112,http://www.wikidata.org/entity/Q80956,Q80956,Svante Arrhenius,https://kulturpersoner.uppsalakyrkogardar.se/svante-arrhenius/,svante-arrhenius
+113,http://www.wikidata.org/entity/Q99485352,Q99485352,Sven Anders Hägg,https://kulturpersoner.uppsalakyrkogardar.se/sven-anders-hagg/,sven-anders-hagg
+114,http://www.wikidata.org/entity/Q5951505,Q5951505,Sven Lilja,https://kulturpersoner.uppsalakyrkogardar.se/sven-lilja/,sven-lilja
+115,http://www.wikidata.org/entity/Q4959294,Q4959294,Thekla Knös,https://kulturpersoner.uppsalakyrkogardar.se/thekla-knos/,thekla-knos
+116,http://www.wikidata.org/entity/Q5978552,Q5978552,Topper Martyn,https://kulturpersoner.uppsalakyrkogardar.se/topper-martyn/,topper-martyn
+117,http://www.wikidata.org/entity/Q5795469,Q5795469,Tycho Hedén,https://kulturpersoner.uppsalakyrkogardar.se/tycho-heden/,tycho-heden
+118,http://www.wikidata.org/entity/Q4948950,Q4948950,Ulla-Bella Fridh,https://kulturpersoner.uppsalakyrkogardar.se/ulla-bella-fridh-gabrielsson/,ulla-bella-fridh-gabrielsson
+119,http://www.wikidata.org/entity/Q943803,Q943803,Uno von Troil,https://kulturpersoner.uppsalakyrkogardar.se/uno-von-troil/,uno-von-troil
+120,http://www.wikidata.org/entity/Q6043915,Q6043915,Viktor Persson,https://kulturpersoner.uppsalakyrkogardar.se/viktor-persson/,viktor-persson
+121,http://www.wikidata.org/entity/Q4983741,Q4983741,Vivi Laurent-Täckholm,https://kulturpersoner.uppsalakyrkogardar.se/vivi-tackholm/,vivi-tackholm
+122,http://www.wikidata.org/entity/Q6197251,Q6197251,Yngve Svalander,https://kulturpersoner.uppsalakyrkogardar.se/yngve-svalander/,yngve-svalander
+123,http://www.wikidata.org/entity/Q13390628,Q13390628,Åke Holm,https://kulturpersoner.uppsalakyrkogardar.se/ake-holm/,ake-holm
